@@ -296,7 +296,8 @@ Fridays Nabil Kashyap (Swarthmore Librarian for Digital Initiatives and Scholars
 ### Policies and Advice
 
 #### Grading
-+30% class participation (includes in-class discussion, quizzes, exercises, and Known posts)
+
++ 30% class participation (includes in-class discussion, quizzes, exercises, and Known posts)
 + 20% 4-5 page paper
 + 15% descriptive bibliography project
 + 10% criticism exam
