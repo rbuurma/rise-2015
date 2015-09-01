@@ -30,7 +30,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### September 2
 + *Robinson Crusoe*, 1-56
-+ RC's republishing history
++ RC's republishing history - in title pages
 + Before novels
 + Close Reading a Novel
 + [exercise 1](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_1.md) assigned
@@ -66,7 +66,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### September 18
 + selection from Armstrong, *Desire and Domestic Fiction*
-+exercise 3 assigned
++ exercise 3 assigned
 
 ### Week IV: *Pamela* and *Shamela* (1741)
 
