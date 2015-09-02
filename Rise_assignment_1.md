@@ -4,23 +4,23 @@ Next week we will see that in *The Rise of the Novel*, Ian Watt argues that, lik
 
 >to know 'all the particulars' of a given case - the _time_ and _place_ of the occurrence; both must be satisfied as to the _identities_ of the parties concerned, and will refuse to accept evidence about anyone called Sir Toby Belch or Mr. Badman -- still less about a Chloe who has no surname and is 'common as the air'...". (31, emphasis added)
 
-Though we may quarrel with many of Watt's implicit and explicit claims (including the confidence with which he refers to a thing called a "novel"),  our reading of *Robinson Crusoe* so far has likely convinced us that specific times, places, and names - as well as amounts of money and dates -- seem important to this novel at least, though we will differ as to our interpretation of precisely *how* they are important.
+Though we may quarrel with many of Watt's implicit and explicit claims (including the confidence with which he refers to a thing called a "novel"),  our reading of *Robinson Crusoe* so far has likely convinced us that specific times, places, and names - as well as amounts of money and dates -- seem important, though we will differ as to our interpretation of precisely *how* they are important.
 
-This exercise helps us extend our thinking about the fictional representation of places, characters' names, times and dates, and money and by using a tool called the [Stanford Named Entity Recognizer](http://nlp.stanford.edu/software/CRF-NER.shtml) to extract references to time, location, organization, person, money, percent, and date from the text of *Robinson Crusoe*.  In short, we are going to reduce the amazingly weird and complex *Robinson Crusoe* to a list,  extracting just some data in order to create a deliberately impoverished representation of RC - one that leaves out most of the novel to let us look more closely and comprehensively at a very specific part of it.
+This exercise helps us extend our thinking about the fictional representation of places, characters' names, times and dates, and money and by using a tool called the [Stanford Named Entity Recognizer](http://nlp.stanford.edu/software/CRF-NER.shtml) to extract references to time, location, organization, person, money, percent, and date from the text of *Robinson Crusoe*.  In short, we are going to reduce the amazingly weird and complex *Robinson Crusoe* to a list,  extracting just some data in order to create a deliberately impoverished representation of it - one that leaves out most of the novel to let us look more closely and comprehensively at a very specific part of it.
 
 After extracting creating these lists, we will try our hand at interpreting them. How is reading these lists different from or similar to reading *Robinson Crusoe* in a more continuous way, from beginning to end or cover to cover?
 
-We also want to think about the lists of food, animals, tools, physical characteristics, and events we have already found IN *Robinson Crusoe* - what is their function?  Moving from literary criticism to named entity extraction and text manipulation and and back to literary criticism should open up this question further.
+We also want to think about the lists of food, animals, tools, physical characteristics, and events we have found IN *Robinson Crusoe* - what is their function?  Moving from literary criticism to named entity extraction and text manipulation and and back again to literary criticism should open up this question further.
 
 In short, in this assignment we will
 
-1. Use the Stanford NER to classify some of the words in *Robinson Crusoe* as Time, Location, Organization, Person, Money, Percent, or Date
-2. Convert the NER output into into seven separate lists
-3. Do some close reading of and thinking about one or more of those lists
+1. use the Stanford NER to classify some of the words in *Robinson Crusoe* as Time, Location, Organization, Person, Money, Percent, or Date.
+2. convert the NER output into into seven separate lists.
+3. do some close reading of and thinking about one or more of those lists.
 
-(Note for the curious: Next week, we will build on this work by using some additional tools and techniques to help us visualize some of the data to help us interpret it in new ways - and you are welcome to begin doing this right away by yourself if you have the time and inclination. Right now, however, for the sake of this assignment we are sticking with plain old lists.)
+(Note for the curious: Next week, we will build on this work by using some additional tools and techniques to help us visualize some of the data to help us interpret it in new ways - and you are welcome to begin doing this right away by yourself if you have the time and inclination. Right now, however, we are sticking with what we can learn by creating and reading plain old lists.)
 
-Here are very detailed, step-by-step instructions. If you prefer, you are free to skip the instructions, try to figure out  how to do it yourself, and skip to the last two sections.
+Here are very detailed, step-by-step instructions. If you prefer, you are free to skip the instructions, try to figure out  how to do it yourself, and skip to the "Read and Think" section.
 
 ##Using the Stanford NER on *Robinson Crusoe*
 
