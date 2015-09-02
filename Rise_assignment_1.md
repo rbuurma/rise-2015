@@ -42,7 +42,7 @@ Here are very detailed, step-by-step instructions. If you prefer, you are free t
 
 If you get stuck, refer to the very complete instructions in Michelle Moravic's [How to Use the Stanford NER and Get Results](http://historyinthecity.blogspot.com/2014/06/how-to-use-stanfords-ner-and-extract.html) or ["Using the Stanford Named Entity Recognizer to extract data from texts"](http://themacroscope.org/wp-content/uploads/2014/09/textanalysisandviz.html) in the preprint version of *The Historian's Macroscope*.
 
-If you are still stuck, ask a classmate who has done the exercise successfully or contact Nabil Kashyap (nkashya1 at swarthmore dot edu) or me. If you are on a PC, things are going to be a bit trickier. If you don't have access to a Mac, either consult the relevant section of ["Using the Stanford Named Entity Recognizer to extract data from texts"](http://themacroscope.org/wp-content/uploads/2014/09/textanalysisandviz.html) in the preprint version of *The Historian's Macroscope* or contact us for help or both. (I hope to update this assignment to include complete PC instructions shortly.)
+If you are still stuck, ask a classmate who has done the exercise successfully or contact Nabil Kashyap (nkashya1 at swarthmore dot edu) or me. If  you have trouble and you are on a Mac, check to see if you have the most recent version of the [Java Development Kit](<http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html>) installed.  If you are on a PC, things are going to be a bit trickier. If you don't have access to a Mac, either consult the relevant section of ["Using the Stanford Named Entity Recognizer to extract data from texts"](http://themacroscope.org/wp-content/uploads/2014/09/textanalysisandviz.html) in the preprint version of *The Historian's Macroscope* or contact us for help or both. (I hope to update this assignment to include complete PC instructions shortly.)
 
 ## Manipulate and Clean Your Data
 
@@ -89,17 +89,24 @@ Post your paragraph to Known. Make sure to tag it:  #RobinsonCrusoe #Assignment1
 
 What is a list? What kind of form is it? How do lists work in *Robinson Crusoe*? Is there a history of the list? Can you find an academic history of the list? A popular history of the list? How many lists have you encountered today? Ordered or unordered, digital or analog, short or long?
 
-What kind of order do the lists we created have? Now might that order have meaning? Or what would we need to know or do to access that meaning?
+What kind of order do the lists we created have? How might that order have meaning? Or what would we need to know or do to access that meaning?
 
 How does the Stanford NER work? Do a bit of research and write a quick explanatory post.
 
-Add here: passage from Underwood, Auvil, and Capitano, "Mapping Mutable Genres" on + the Robinsonade (and reprints, revisions of RC)
+In ["Mapping Mutable Genres"](http://arxiv.org/abs/1309.3323), Ted Underwood, Loretta Auvil, and Boris Capitanu discover a correlation between "first-person" narration, travel, and quantification.
+
+>first-person pronouns are positively correlated with terms that describe travel—and especially travel by sea. We found one clue to this association when we looked at a list of titles sorted by our classifier. A remarkable number of the works recognized as most strongly “first-person” in character belonged to the genre of the Robinsonade. We were aware that *Robinson Crusoe* (1719) was a widely-reprinted and frequently-imitated novel, but we hadn’t realized just how long and vigorously this tradition endured. *The Swiss Family Robinson* (1812) was joined by an *English Family Robinson* (1852), for instance, and eventually by a *Robinson Crusoe of the Nineteenth Century* (1884), and many others. The castaway premise obviously encourages a story to rely on first-person narration, and we suspect it may also encourage quantification. Crusoe’s obsession with enumeration and accumulation is famously part of the colonial logic of his narrative, which transforms (ostensibly) uninhabited land into a well-governed productive system. ("Mapping Mutable Genres," Section 2C)
+
+They hypothesize that the reason may be that the castaway premise, or "the combination of a first-person narrator, a colonial setting,
+and acquisitive quantification" in adventure fiction may encourage both first-person narration and quantification. Based on your work examining the NER outputs of Time, Money, Percent, and Date, can you offer any hypotheses of your own based just on *Robinson Crusoe*? If you wanted to extend what you've learned from the NER data about languages of quantification in RC, what further information would you need? What other correlations within RC might you look for? If you wanted to extend your investigation outward to the Robinsonade, or to adventure or travel fiction more broadly, how might you go about doing that?
 
 What else?
 
 ----------
 
-This assignment is indebted to Michelle Moravic's [How to Use the Stanford NER and Get Results](http://historyinthecity.blogspot.com/2014/06/how-to-use-stanfords-ner-and-extract.html) and ["Using the Stanford Named Entity Recognizer to extract data from texts"](http://themacroscope.org/wp-content/uploads/2014/09/textanalysisandviz.html) in *The Historian's Macroscope*.  I was also inspired by Scott Enderle's thinking about the value of lists in his ["Against Visualization"](https://readingfromadistance.wordpress.com/2015/04/18/against-visualization/) post at Skidmore's [Reading From A Distance](https://readingfromadistance.wordpress.com/).
+This assignment is indebted to Michelle Moravic's [How to Use the Stanford NER and Get Results](http://historyinthecity.blogspot.com/2014/06/how-to-use-stanfords-ner-and-extract.html) and ["Using the Stanford Named Entity Recognizer to extract data from texts"](http://themacroscope.org/wp-content/uploads/2014/09/textanalysisandviz.html) in *The Historian's Macroscope*.  I was also inspired by Scott Enderle's thinking about the value of lists in his ["Against Visualization"](https://readingfromadistance.wordpress.com/2015/04/18/against-visualization/) post at Skidmore's [Reading From A Distance](https://readingfromadistance.wordpress.com/). And a huge thanks to Nabil Kashyap for tireless testing and invaluable suggestions.
+
+Note: This is a new assignment; milage will vary. We would very much like to hear of any problems you have in order to make the next iteration cleaner. In addition, this version of the assignment assumes root privileges on a fairly recent version of OSX, but we aspire for the next draft to include instructions for a wider variety of platforms.
 
 The archival version of our syllabus will be deposited in our Dropbox folder. The most up-to-date copy of our syllabus and exercises will be available on github: https://github.com/rbuurma/rise_2015
 
