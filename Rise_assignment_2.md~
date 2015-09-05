@@ -16,7 +16,7 @@ The steps are simple.
 
 2. Clean it, if you want to, by manually deleting errors. (This will be somewhat subjective; that's necessary and fine.) Also add a first line named "Location" at the top.
 
-3. Save your file with a .csv extension. (This stands for "comma separated values" and will let My Maps read each line as a separate value.)
+3. Save your file with a .csv extension. (This stands for "comma separated values" and will let MyMaps read each line as a separate value.)
 
 4.  Go to [Google My Maps] (https://www.google.com/maps/d/) and click "Create a New Map."
 
