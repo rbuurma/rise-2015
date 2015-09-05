@@ -37,7 +37,7 @@ The steps are simple.
 
 ## Think more
 
-Continue to think about the questions in step 10, above. Look also at the map above; how does it relate to the MyMaps version you just created? What visions of the world do the two different maps encode? What do they each tell you about *Robinson Crusoe*, and about themselves?
+Continue to think about the questions in step 10-13, above. Look also at the map above; how does it relate to the MyMaps version you just created? What visions of the world do the two different maps encode? What do they each tell you about *Robinson Crusoe*, and about themselves?
 
 ## Write
 
