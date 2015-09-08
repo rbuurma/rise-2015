@@ -12,31 +12,33 @@ There will be at least two interesting results. First, visualizing the NER-extra
 
 The steps are simple.
 
-1.  Using TextWrangler or a similar text editor, de-duplicate your NER "Locations" data if you haven't already. (If you had trouble with generating the NER data or if you rashly discarded it, I have included both raw and a de-duplicated versions of the NER "Locations" list in our repository.)
+1.  Create a new copy of the data for this assignment.
 
-2. Create a new copy of the data for this assignment. Clean it, if you want to, by manually deleting errors. (This will be somewhat subjective; that's necessary and fine.) Also add a first line named "Location" at the top.
+2. Using TextWrangler or a similar text editor, de-duplicate your NER "Locations" data if you haven't already. (If you had trouble with generating the NER data or if you rashly discarded it, I have included both raw and a de-duplicated versions of the NER "Locations" list in our repository.) You can also further clean it, if you want to, by manually deleting errors. (This will be somewhat subjective; that's necessary and fine.)
 
-3. Remove everything except for the location names by opening the "find" box. In "find" put everything between the quotation marks were (the word, the colon, and a space):
+3. Now you need to remove the "LOCATION" tags to avoid confusing My Maps. To do this, open the "find" box or similar find-and-replace function. In "find" put everything between the quotation marks here (the word LOCATION, the colon, and a space):
 
 "LOCATION: "
 
 In "replace" make sure that there is nothing (not even a space).  Click "replace all." Note that you can always use the "undo" function if you do something by accident.
 
-4. Save your file with a .csv extension. (This stands for "comma separated values" and will let My Maps read each line as a separate value.)
+4. Add a first line named "Location" at the very top of the document; this will become your My Maps column name.
 
-5.  Go to [Google My Maps] (https://www.google.com/maps/d/) and click "Create a New Map."
+5.  Save your file with a .csv extension. (This stands for "comma separated values" and will let My Maps read each line as a separate value.)
 
-6.  In the box on the left, select "Add layer" and choose the "Import" option to import your list of locations.
+6.  Go to [Google My Maps] (https://www.google.com/maps/d/) and click "Create a New Map."
 
-7. In the "Choose columns to position placemarks" pop-up box select "Locations" (or whatever variation you named your single column in step 2).
+7.  In the box on the left, select "Add layer" and choose the "Import" option to import your list of locations.
 
-8. In the "Choose a column to title your markers" select "Locations" again.
+8. In the "Choose columns to position placemarks" pop-up box select "Locations" (or whatever variation you named your single column in step 2).
 
-9. You will see your locations positioned on a map!
+9. In the "Choose a column to title your markers" select "Locations" again.
+
+10. You will see your locations positioned on a map!
 
 10. But you will also see a message telling you that some of your rows couldn't be shown and given an option to open the data table.
 
-10. Open the data table. Look at the row with the red triangle indicating that they could not be geocoded, and compare them to the geocoded and mapped rows. Ask yourself three questions.
+11. Open the data table. Look at the row with the red triangle indicating that they could not be geocoded, and compare them to the geocoded and mapped rows. Ask yourself three questions.
 + First, what happened - invisibly - to the rows that were mapped? What were they matched to? What data has been invisibly added?
 + Second, do these rows have anything in common? Do some of them have something in common? Are some errors? Are some fictional? Are some apparently real places that for some other reason failed to map?
 + Are some of the place names that were coded and mapped probably errors - ie, fictional locations from *Robinson Crusoe* geocoded as small towns in Ohio?
