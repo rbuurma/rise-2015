@@ -14,21 +14,27 @@ The steps are simple.
 
 1.  Using TextWrangler or a similar text editor, de-duplicate your NER "Locations" data if you haven't already. (If you had trouble with generating the NER data or if you rashly discarded it, I have included both raw and a de-duplicated versions of the NER "Locations" list in our repository.)
 
-2. Clean it, if you want to, by manually deleting errors. (This will be somewhat subjective; that's necessary and fine.) Also add a first line named "Location" at the top.
+2. Create a new copy of the data for this assignment. Clean it, if you want to, by manually deleting errors. (This will be somewhat subjective; that's necessary and fine.) Also add a first line named "Location" at the top.
 
-3. Save your file with a .csv extension. (This stands for "comma separated values" and will let My Maps read each line as a separate value.)
+3. Remove everything except for the location names by opening the "find" box. In "find" put everything between the quotation marks were (the word, the colon, and a space):
 
-4.  Go to [Google My Maps] (https://www.google.com/maps/d/) and click "Create a New Map."
+"LOCATION: "
 
-5.  In the box on the left, select "Add layer" and choose the "Import" option to import your list of locations.
+In "replace" make sure that there is nothing (not even a space).  Click "replace all." Note that you can always use the "undo" function if you do something by accident.
 
-6. In the "Choose columns to position placemarks" pop-up box select "Locations" (or whatever variation you named your single column in step 2).
+4. Save your file with a .csv extension. (This stands for "comma separated values" and will let My Maps read each line as a separate value.)
 
-7. In the "Choose a column to title your markers" select "Locations" again.
+5.  Go to [Google My Maps] (https://www.google.com/maps/d/) and click "Create a New Map."
 
-8. You will see your locations positioned on a map!
+6.  In the box on the left, select "Add layer" and choose the "Import" option to import your list of locations.
 
-9. But you will also see a message telling you that some of your rows couldn't be shown and given an option to open the data table.
+7. In the "Choose columns to position placemarks" pop-up box select "Locations" (or whatever variation you named your single column in step 2).
+
+8. In the "Choose a column to title your markers" select "Locations" again.
+
+9. You will see your locations positioned on a map!
+
+10. But you will also see a message telling you that some of your rows couldn't be shown and given an option to open the data table.
 
 10. Open the data table. Look at the row with the red triangle indicating that they could not be geocoded, and compare them to the geocoded and mapped rows. Ask yourself three questions.
 + First, what happened - invisibly - to the rows that were mapped? What were they matched to? What data has been invisibly added?
