@@ -24,8 +24,6 @@ Here are very detailed, step-by-step instructions. If you prefer, you are free t
 
 ##Using the Stanford NER on *Robinson Crusoe*
 
-If you are on a Mac, follow the directions below. If you are on a PC, follow [these directions](http://imgur.com/a/yCPJx), authored by Rise of the Novel 2015 student Claudia Lo. (Update to integrate these instructions into the text of this assignment in progress.)
-
 1. Follow the directions to install the [Stanford Named Entity Recognizer](http://nlp.stanford.edu/software/CRF-NER.shtml) on your computer.
 
 2. Open the file named ner-gui.command.
