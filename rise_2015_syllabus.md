@@ -52,17 +52,16 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 ##### September 11
 + *Robinson Crusoe* continued  (possibly also begin reading *Pamela*)
 + exercise 2 due, exercise 3 assigned
-+ short paper assigned
 
 ### Week III: *Pamela* (1740)
 
 ##### September 14
 + *Pamela*, 11-238
++ short close reading paper assigned
 
 ##### September 16
 + *Pamela* chapter summary (pdf)
 + *Pamela* 476-503
-+ short close reading paper assigned
 
 ##### September 18
 + selection from Armstrong, *Desire and Domestic Fiction*
