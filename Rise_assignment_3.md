@@ -2,9 +2,11 @@
 
 While we have read a good long chunk of *Pamela*, we don't have time to read all of the first two volumes, let alone to read volumes 3 and 4 about Pamela's life in (*spoiler alert*) "Her Exalted Condition." We need a shortcut - some plot summaries, maybe an index of the high points and important parts of the novel. Even the part we read can be difficult to remember in the detail we might need for a particular purpose - paper writing, for example, or impressing new acquaintances at cocktails parties with apposite Richardson quotations. (Note: don't actually try this.)
 
-Eighteenth-century readers possessed a number of forms and technologies for doing just this. In the 1742 octavo edition of all four volumes of *Pamela*, Richardson included a detailed table of contents. It had uses for different kinds of readers and non-readers. It would "serve to revive the Memory of the principle Matters in the Minds of those who have read them";  it gives to "an easy and clear View" of the novels' contents to those who have not read them "nor perhaps have Leisure to peruse them." At the same time, the table of contents "will serve as a copious INDEX to direct the Reader where to find the most material passages":
+Eighteenth-century readers possessed a number of forms and technologies for doing just this. In the 1742 octavo edition of all four volumes of *Pamela*, Richardson included a detailed table of contents. It had uses for different kinds of readers and non-readers. It would "serve to revive the Memory of the principle Matters in the Minds of those who have read them";  it gives "an easy and clear View" of the novels' contents to those who have not read them "nor perhaps have Leisure to peruse them" (note the reference to the politics of leisure and work as discussed in class).  At the same time, the table of contents "will serve as a copious INDEX to direct the Reader where to find the most material passages."
 
 ![Pamela 1742 Epitome headnote](https://github.com/rbuurma/rise-2015/blob/master/Pamela_epitome_headnote_1742.png?raw=true)
+
+In this exercise, we will take a look at Richardson's index to *Pamela*, and construct some new (and more temporary) indexes (or indices, if you prefer) of our own.
 
 ### Richardson's Index to *Pamela*
 
