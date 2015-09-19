@@ -57,7 +57,7 @@ And here is the Voyant documentation to help; it includes tutorials. I also reco
 
 Write a paragraph or two on some particularly interesting and suggestive findings from your work in steps 2-5 - the more specific the better. Positive or negative results can be good  findings. Feel free also to share any thoughts about the value and/or difficulty of this type of lightweight text analysis work.  Post to Known with #Exercise3 #Voyant #TextAnalysis and any other relevant tags.
 
-### More
+### More (optional and for the future)
 
 Voyant just scratches the surface; two more good sources for collections of text analysis platforms and recipes are Alan Liu's [DH Toychest](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools#tools-text-analysis) and [Tapor2](http://www.tapor.ca/) - both are large collections of tools for finding, processing, and visualizing texts of different kinds.
 
