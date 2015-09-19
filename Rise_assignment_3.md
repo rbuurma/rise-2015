@@ -44,14 +44,12 @@ For example, if I use the "search" box in the "words in the corpus" window to se
 
 Note especially that the "word trends" screen is not very useful in the small window; to use it you will have to toggle back and forth between the Voyant dashboard and the maximized word trends screen to use it effectively.
 
+For further guidance, here is the [Voyant documentation](http://docs.voyant-tools.org/); it includes links to additional tools you can use in Voyant (milage may vary) and tutorials. I also recommend that you spend a little time playing around with voyant.
 *Consider taking some screen shots to illustrate your write-up.*
 
 #### Step 5
 
 Challenge: Think about one of the core arguments Nancy Armstrong makes in the selections from *Desire and Domestic Fiction* we read this week. Is there any way you might - provisionally and partially - use the Voyant tools to extend, press against, or create new evidence for one of these claims? Choose a specific claim or your version of a specific claim, and then think about how you might translate that claim to the level of a word or a collection of words.
-
-And here is the Voyant documentation to help; it includes tutorials. I also recommend that you spend a little time playing around with voyant. Here is a list of other tools that you can use through Voyant.
-
 
 ### Write
 
@@ -59,7 +57,7 @@ Write a paragraph or two on some particularly interesting and suggestive finding
 
 ### More (optional and for the future)
 
-Voyant just scratches the surface; two more good sources for collections of text analysis platforms and recipes are Alan Liu's [DH Toychest](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools#tools-text-analysis) and [Tapor2](http://www.tapor.ca/) - both are large collections of tools for finding, processing, and visualizing texts of different kinds.
+Voyant just scratches the surface of what we can do with existing text analysis tools and platforms. Too good sources for collections of text analysis platforms and recipes are Alan Liu's [DH Toychest](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools#tools-text-analysis) and [Tapor2](http://www.tapor.ca/) - both are large collections of tools for finding, processing, and visualizing texts of different kinds. You may also be interested in taking a look at [the beta version of the new Voyant](http://beta.voyant-tools.org/).
 
 The new (and experimental) [XSEDE](http://ec2-54-85-108-97.compute-1.amazonaws.com:3838/tag/) collection of tools is also interesting; the "data" tab lets you walk through the process of preparing your uploaded text for analysis in a way that teaches you a bit about text preparation. The "explore" tab lets you look at some characteristics of the words in your document, and "transform" offers quick versions of some topic modeling algorithms we will explore in more detail later in the semester.
 
