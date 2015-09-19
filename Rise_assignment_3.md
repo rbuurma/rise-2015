@@ -10,7 +10,7 @@ In this exercise, we will take a look at Richardson's index to *Pamela*, and con
 
 ### Richardson's Index to *Pamela*
 
-First, take a quick look at the 1742 Table of Contents. [link] What does Richardson index? What kind of information does it offer you? Does this information point towards any new interpretations of the novel, large or small?
+First, take a quick look at the [1742 Table of Contents](https://github.com/rbuurma/rise-2015/blob/master/Pamela_1742_Table_of_Contents.pdf). What does Richardson index? What kind of information does it offer you? Does this information point towards any new interpretations of the novel, large or small?
 
 ### Machine-Indexing *Pamela*
 
