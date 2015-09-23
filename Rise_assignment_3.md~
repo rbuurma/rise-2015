@@ -57,7 +57,7 @@ Write a paragraph or two on some particularly interesting and suggestive finding
 
 ### More (optional and for the future)
 
-Voyant just scratches the surface of what we can do with existing text analysis tools and platforms. Two good sources for collections of text analysis platforms and recipes are Alan Liu's [DH Toychest](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools#tools-text-analysis) and [Tapor2](http://www.tapor.ca/) - both are large collections of tools for finding, processing, and visualizing texts of different kinds. You may also be interested in taking a look at [the beta version of the new Voyant](http://beta.voyant-tools.org/).
+Voyant just scratches the surface of what we can do with existing text analysis tools and platforms. Too good sources for collections of text analysis platforms and recipes are Alan Liu's [DH Toychest](http://dhresourcesforprojectbuilding.pbworks.com/w/page/69244319/Digital%20Humanities%20Tools#tools-text-analysis) and [Tapor2](http://www.tapor.ca/) - both are large collections of tools for finding, processing, and visualizing texts of different kinds. You may also be interested in taking a look at [the beta version of the new Voyant](http://beta.voyant-tools.org/).
 
 The new (and experimental) [XSEDE](http://ec2-54-85-108-97.compute-1.amazonaws.com:3838/tag/) collection of tools is also interesting; the "data" tab lets you walk through the process of preparing your uploaded text for analysis in a way that teaches you a bit about text preparation. The "explore" tab lets you look at some characteristics of the words in your document, and "transform" offers quick versions of some topic modeling algorithms we will explore in more detail later in the semester.
 
