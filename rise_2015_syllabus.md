@@ -74,7 +74,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### September 23
 + *Shamela*, continued
-+ exercise 3 due; exercise 4 assigned
++ exercise 3 due; [exercise 4 assigned](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_4.md)
 
 ##### September 25
 + McKeon, "Generic Transformation and Social Change"
@@ -86,11 +86,12 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### September 30
 + *Tristram Shandy*, continued
-+ exercise 4 due; exercise 5 assigned
-+ selection from Ramsay, *Reading Machines*
++ exercise 4 steps 1-5 due; exercise 5 assigned
 
 ##### October 2
-+ from Thomas Keymer, “Sterne and the ‘New Species of Writing’” in *Tristram Shandy: A Casebook* (tentative)
++ selection from Ramsay, *Reading Machines*
++ exercise 4 writeup due
++ [from Thomas Keymer, “Sterne and the ‘New Species of Writing’” in *Tristram Shandy: A Casebook* (removed)]
 
 ### Week VI: *Evelina* (1778)
 
