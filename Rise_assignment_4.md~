@@ -6,19 +6,15 @@ So far, we have looked at and read our eighteenth-century novels in three primar
 
 ![ALAS 1]()
 
-Why would we want to do that? A digital facsimile is useful in many ways: a series of images of a book (usually one image = one page), a digital facsimile gives of some sense of the look of the book it represents. Usually digital facsimiles are created by creating an image file for each page of a book and then ordering them within a digital framework more or less by their order in the physical book.
+Why would we want to do that? A digital facsimile is useful in many ways: a series of images of a book (usually one image = one page), a it gives of some sense of the look of the book it represents. Usually digital facsimiles are created by creating an image file for each page of a book and then ordering them within a digital framework more or less by their order in the physical book.
 
-One simple but time-consuming way would be for a person to retype the entire text; many early digital text were in fact made this way. Another option is to
+However, computers can't recognize the words on a page of a digital image as words; they are legible only as images. If we want machine-readable text, we will have to do something to the images to generate it. One simple but time-consuming way would be for a person to retype the entire text; many early digital text were in fact made this way. Another option is to us OCR (Optical Character Recognition) software to convert image files into text files. As we will see, however, this software isn't perfect; it will generate mistakes - some specific to the particular OCR software we choose, some the result of the interaction between an image of 18th c typography and OCR. Therefore, OCR texts always require some level of correction, whether automated or by hand.
 
-> Digitization is done by scanning the book page after page to get "image" files. Then volunteers run an OCR (Optical Character Recognition) software to convert "image" files into text files. Then each text file is proofread (i.e. re-read and corrected) by comparing it to the "image" file or the original page of the print version. There is an average of 10 mistakes per page for a good OCR package and... many more mistakes if the quality of the scanner and the OCR package is not great.
-
-While OCR software
-
-> The book is proofread twice on the computer screen by two different people, who make any corrections necessary. When the original is in poor condition, as with very old books, it is keyed in manually, word by word. Some volunteers themselves prefer to type short texts, or works they particularly like. But most books are scanned, "OCRized" and proofread. [^1]
-
-*General reminder: create new copies of your text as you modify it. Use informative, standardized file names.*
+In this assignment, you will locate a digital facsimile of *Tristram Shandy*, OCR and correct a chapter or part of a chapter, and reflect on what you have learned in the process.
 
 ![ALAS 2]()
+
+*General reminder: create new copies of your text as you modify it. Use informative, standardized file names.*
 
 #### Step 1
 
