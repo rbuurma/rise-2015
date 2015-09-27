@@ -12,7 +12,7 @@ However, computers can't recognize the words on a page of a digital image as wor
 
 In this assignment, you will locate a digital facsimile of *Tristram Shandy*, OCR and correct a chapter or part of a chapter, and reflect on what you have learned in the process.
 
-![ALAS 2](https://github.com/rbuurma/rise-2015/blob/master/ALAS_2.png)
+![ALAS 2](https://github.com/rbuurma/rise-2015/blob/master/ALAS_2.PNG)
 
 *General reminder: create new copies of your text as you modify it. Use informative, standardized file names.*
 

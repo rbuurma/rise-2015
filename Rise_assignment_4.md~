@@ -4,7 +4,7 @@ Steps 1-5 due by Wednesday, September 30. Step 6 (write-up) due Friday, October 
 
 So far, we have looked at and read our eighteenth-century novels in three primary digital forms: modern printed scholarly editions (or editions based on scholarly editions), digital facsimiles/digital surrogates (images of eighteenth-century editions of some of our texts, usually a few pages at a time), and the Project Gutenberg plain-text versions of our novels (which we have used in our text analysis assignments). In this assignment, we will ask how we get from a digital facsimile to a plain-text file.
 
-![ALAS 1]()
+![ALAS 1](https://github.com/rbuurma/rise-2015/blob/master/ALAS_1.png)
 
 Why would we want to do that? A digital facsimile is useful in many ways: a series of images of a book (usually one image = one page), a it gives of some sense of the look of the book it represents. Usually digital facsimiles are created by creating an image file for each page of a book and then ordering them within a digital framework more or less by their order in the physical book.
 
@@ -12,7 +12,7 @@ However, computers can't recognize the words on a page of a digital image as wor
 
 In this assignment, you will locate a digital facsimile of *Tristram Shandy*, OCR and correct a chapter or part of a chapter, and reflect on what you have learned in the process.
 
-![ALAS 2]()
+![ALAS 2](https://github.com/rbuurma/rise-2015/blob/master/ALAS_2.png)
 
 *General reminder: create new copies of your text as you modify it. Use informative, standardized file names.*
 
