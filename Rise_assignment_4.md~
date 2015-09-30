@@ -12,7 +12,7 @@ Why would we want to convert a digital facsimile into a "plain" text? A digital 
 
 However, computers can't recognize the words on a page of a digital image as words; they are legible only as images. If we want machine-readable text, we will have to do something to the images to generate it. One simple but time-consuming way would be for a person to retype the entire text; many early digital texts were in fact made this way. Another option is to use OCR (Optical Character Recognition) software to convert image files into text files. As we will see, however, this software isn't perfect. It will generate mistakes - some specific to the particular OCR software we choose, some the result of the interaction between an image of 18th c typography and OCR. Therefore, OCR texts always require some level of correction, whether automated or by hand. (You might also want to note that OCR technology has improved a lot over time - but the OCR of many works of many databases is stuck in the moment the digital facsimile was created, unless someone re-OCRs.)
 
-![ALAS 1](https://github.com/rbuurma/rise-2015/blob/master/ALAS_3.png)
+![ALAS 3](https://github.com/rbuurma/rise-2015/blob/master/ALAS_3.png)
 
 In this assignment, you will locate a digital facsimile of *Tristram Shandy*, OCR and correct a chapter or part of a chapter, and reflect on what you have learned in the process.
 
@@ -48,9 +48,11 @@ I recommend trying at least two different ways of OCRing your section of TS.
 
 Clean your text. Open up your original pdf with the page images of your chapter; open a second window with a fresh copy containing the most accurate OCR result you produced. Compare pages. What kinds of mistakes do you see? Identify and correct at least a few pages of mistakes.
 
-#### Step 6
+#### Step 6 - two paragraphs
 
-Write a paragraph or so about the process. What kinds of mistakes did you notice in the OCR programs? Might there be some way or ways of automatically solving some of them (rather than hand-correcting them as you did)? Aside from obvious mistakes, what else is lost in the "conversion" from image to machine-readable text? (What is at stake in thinking about this as a conversation? What model of the text does that imply? How else might we think about it?) And, by the way, what have you learned about access to and search in digital facsimiles?  Post to Known with #Exercise4 #DigitalSurrogates #TextPreparation and any other relevant tags.
+Write a paragraph or so about the process. What kinds of mistakes did you notice in the OCR programs? Might there be some way or ways of automatically solving some of them (rather than hand-correcting them as you did)? Aside from obvious mistakes, what else is lost in the "conversion" from image to machine-readable text? (What is at stake in thinking about this as a conversation? What model of the text does that imply? How else might we think about it?) And, by the way, what have you learned about access to and search in digital facsimiles?
+
+Post this paragraph to Known with #Exercise4 #DigitalSurrogates #TextPreparation and any other relevant tags.
 
 Then write a paragraph opening out into one or more of the many large questions raised by this assignment - about the difference between a single copy of a book, a digital facsimile of that book, what that digital facsimile comes to stand for or stand in for in a database like ECCO, and then what happens when we extract a text from that digital facsimile. What questions would you add? How might we begin to answer them? Stay specific - choose one or two.
 
