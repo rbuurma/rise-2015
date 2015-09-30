@@ -12,7 +12,7 @@ Why would we want to do that? A digital facsimile is useful in many ways: a seri
 
 However, computers can't recognize the words on a page of a digital image as words; they are legible only as images. If we want machine-readable text, we will have to do something to the images to generate it. One simple but time-consuming way would be for a person to retype the entire text; many early digital text were in fact made this way. Another option is to us OCR (Optical Character Recognition) software to convert image files into text files. As we will see, however, this software isn't perfect; it will generate mistakes - some specific to the particular OCR software we choose, some the result of the interaction between an image of 18th c typography and OCR. Therefore, OCR texts always require some level of correction, whether automated or by hand.
 
-![ALAS 1](https://github.com/rbuurma/rise-2015/blob/master/ALAS_3.png)
+![ALAS 1](https://github.com/rbuurma/rise-2015/blob/master/ALAS_3_FineReader_OCR.png)
 
 In this assignment, you will locate a digital facsimile of *Tristram Shandy*, OCR and correct a chapter or part of a chapter, and reflect on what you have learned in the process.
 
