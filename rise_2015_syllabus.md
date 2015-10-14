@@ -109,6 +109,8 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ### Week VII: October Holiday – you may wish to read ahead and begin *Northanger Abbey* as well
 
++ (exercise 5)[https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_5.md] assigned
+
 ### Week VIII: *Evelina* (1778)
 
 ##### October 19
@@ -116,7 +118,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### October 21
 + *Evelina*, continued
-+ exercise 6 due; exercise 7 assigned
++ exercise 5 due; exercise 6 assigned
 
 ##### October 23
 + Barthes, "The Reality Effect"
@@ -131,7 +133,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 ##### October 28
 + *Northanger Abbey*, continued
 + narrative monologue handout based on Cohn, *Transparent Minds*
-+ exercise 7 assigned
++ exercise 6 due; exercise 7 assigned
 
 ##### October 30
 + selection from Anderson, *Imagined Communities*
