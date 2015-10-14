@@ -109,7 +109,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ### Week VII: October Holiday – you may wish to read ahead and begin *Northanger Abbey* as well
 
-+ (exercise 5)[https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_5.md] assigned
++ [exercise 5](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_5.md) assigned
 
 ### Week VIII: *Evelina* (1778)
 
