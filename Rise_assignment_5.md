@@ -1,6 +1,7 @@
 # Evelina in 1778 (Exercise 5)
 
 Writeup due to Known before class Wednesday, October 21, 2015
+
 Estimated time: 2-3 hours
 
 So far in these exercises we have searched, graphed, mapped, and OCR'd individual novels. In this assignment, we will expand our view to look at three new configurations - a set of 30+ printed bibliographic descriptions of of novels contemporary with *Evelina*,  a few facsimile copies of novels published in the same year as *Evelina*, and finally all of the plain texts of novels we can find in ECCO printed in 1778 via a simple (and, you will find, limited) interface for analyzing multiple texts in ECCO.
@@ -12,7 +13,7 @@ The aim of this specific assignment is to provide you with a few methods for gau
 
 >Bibliography is the discipline that studies texts as recorded forms, and the processes of their transmission, including their production and reception...It also frankly accepts that bibliographers should be concerned to show that forms affect meaning.
 Don McKenzie, "The Book as an Expressive Form," 29
-
+s
 
 #### Step 1: printed bibliographies
 
