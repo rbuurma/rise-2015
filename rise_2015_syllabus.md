@@ -184,8 +184,6 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 + Jameson, “The Realist Floor-plan”
 + house of fiction passage
 
-*Descriptive bibliography project due to Omeka site by midnight, November 22nd*
-
 ### Week XIII: *Ulysses* (1922)
 
 ##### November 23
@@ -211,7 +209,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### December 4
 + in-class criticism exam
-+ descriptive bibliography projects due (by Sunday night)
++ *descriptive bibliography projects due (by Sunday night, December 6th)*
 
 ### Week XV: *A House for Mr. Biswas*
 
