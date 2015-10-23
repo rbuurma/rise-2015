@@ -15,7 +15,7 @@ Austen, Jane. Mansfield Park. 2nd ed. London: Murray, 1816. (It might be more in
 	+ Do not worry about size or type of font. I do not want you to represent large or small point sizes, or gothic as opposed to roman type); do indicate difference between lower and upper case, italic and non-italic font type.
 	+ Ornaments are simply measured height x width in mm and described in [square brackets].
 	+ Remember to put each new line after a | and if you see a | represent it as an ornament. / is a virgule – represent it using /. Use [...] for omissions where each period represents letter that might be missing; but if you find square brackets on the page from which you are working, find differently formatted ones
-+ Next, make a note of the way the book is paginated; see examples in the Raven bibliography for guidance. Some pages have roman numerals. Represent these accordingly (so viii if the book contains seven Roman-numeral pages before the Arabic numbering).
++ Next, make a note of the way the book is paginated, volume by volume; see examples in the Raven bibliography for guidance. Some pages have roman numerals. Represent these accordingly (so viii if the book contains seven Roman-numeral pages before the Arabic numbering).
 + The next thing to do is to determine format. You might want to start by counting the number of leaves in each gathering. Find a gathering by signature - it will be signed A, A2, A3, for instance, and the next gathering will start at B. Find a gathering, too, by looking for the string that has stitched it into the binding (remember the gatherings in manuscripts: the principle is the same): it will be in the very middle of the gathering.  Count the leaves in a mid-book gathering, not the preliminaries.
 Once you have figured out how many pages in each gathering, remember the main clues for format:
 + Folio, or 2mo will be gathered in 2s, 4s, 6s or 8s (that is, two, four, etc leaves).
@@ -54,6 +54,6 @@ Post a paragraph about your plan for your experimental descriptive bibliography 
 
 ### Important Notes
 
-If you wish to describe a physical copy of your chosen book instead of a digital facsimile I will try to make some times for you to travel to Penn's rare book library to see them. If you want to do this, make sure that Penn has a first or early edition of the book you are working with by searching the Penn Library's catalog, Franklin.
+If you wish to describe a physical copy of your chosen book instead of a digital facsimile I will try to make some times for you to travel to Penn's rare book library to see them. If you want to do this, make sure that Penn has a first or early edition of the book you are working with by searching the Penn Library's catalog, [Franklin](http://franklin.library.upenn.edu/).
 
 
