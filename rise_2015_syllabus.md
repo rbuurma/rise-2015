@@ -159,6 +159,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 ##### November 9
 + *The Moonstone*, 272-472
 + final paper/project assigned
++ descriptive bibliography plan due (one paragraph, post to Known)
 
 ##### November 11
 + *The Moonstone*, continued
@@ -206,15 +207,17 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 ##### December 2
 + exercise 9 due
 + [Infinite Ulysses](www.infiniteulysses.com) (tentative)
-+ Homi Bhabha, “The World and the Home”
++ Homi Bhabha, “The World and the Home” handout
 
 ##### December 4
 + in-class criticism exam
++ descriptive bibliography projects due (by Sunday night)
 
 ### Week XV: *A House for Mr. Biswas*
 
 ##### December 7
 + *A House for Mr. Biswas*, 292-564
++ brief descriptive bibliography project presentations
 + Conclusions
 
 *Final papers/projects due by midnight, Dec 20*
