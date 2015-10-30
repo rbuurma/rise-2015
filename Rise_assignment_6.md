@@ -1,7 +1,7 @@
 # Metadata for *Evelina* and Friends (Exercise 6)
 
-Writeup due to Known before class Monday, November 2nd, 2015
-Estimated time: 1-2 hours
++ Writeup due to Known before class Monday, November 2nd, 2015
++ Estimated time: 1-2 hours
 
 In exercise 5, we moved from using digital text analysis tools to examine single canonical novels to thinking about how we might look at some successively larger sets of novels. We examined some bibliographic metadata in both printed bibliographies and ECCO, and we visually examined digital facsimiles of eighteenth-century novels and also used the ARTEMIS tools to analyze and explore the OCR'd text of those facsimiles and the metadata attached to them. (Metadata, you will remember, is just "data about data"; bibliographic metadata is data about books, for example the electronic catalog records that accompanied the ECCO facsimiles. The metadata of a Word or PDF document usually contains information about the author, the program used, the time and date of composition, etc.)
 

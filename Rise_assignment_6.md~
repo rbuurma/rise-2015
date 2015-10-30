@@ -51,7 +51,7 @@ Note that your spreadsheet program is already a type of data visualization, thou
 
 ### Step 2: Google Fusion Tables
 
-First, we will Google Fusion tables, which is a relatively simple way to take a spreadsheet of information and create some visualizations from it. [^1] Go to www.google.com/fusiontables, sign in with your Google account (create one if you don't have one), and find and upload the exercise6ENDmetadata1700_1779 file.
+First, we will Google Fusion tables, which is a relatively simple way to take a spreadsheet of information and create some visualizations from it.  Go to www.google.com/fusiontables, sign in with your Google account (create one if you don't have one), and find and upload the exercise6ENDmetadata1700_1779 file. (To get the most out of this exercise, consider viewing some of the Fusion tutorials before moving on the explore the END metadata.)
 
 After you have created your table, you will see some tabs. In the first tab, you will find a spreadsheet. Each row represents a record of a different novel. Each column represents a different metadata field. *These are just a selection of fields pulled from a larger, messy, in-process metadata set; some of them will be more interesting than others. Some will be interesting but you will discover are not yet in a form you can use given your existing tools.* [^2]
 
@@ -84,9 +84,5 @@ Copy the resulting words (the extra spaces won't make a difference) and drop the
 ### Write
 
 Write a few paragraphs about what you have learned about this metadata and the set of novels it describes. What were you able to learn about this dataset? What would you have liked to learn about the existing data but were unable to because of the data's form or the tools you had? If you had more tools or more data (either different types of metadata or more metadata or both), can you imagine research questions you would like to ask? Have you learned anything, large or small, about the process of visualizing and analyzing metadata?
-
-
-[^1]: To get the most out of this exercise, consider viewing some of the Fusion tutorials before moving on the explore the END metadata.
-[^2]: Here are descriptions of each column's values:
 
 
