@@ -46,7 +46,7 @@ CatalogedBy - The name or initials of the student researcher who created most of
 + TitleAdverbs - Adverbs in the title.
 ****
 
-Note that your spreadsheet program is already a type of data visualization, though a very general and not especially useful one for our current goal of exploring this . What we need is a way to easily select one or a few of the columns and visualize their values. To do this, we will use a few simple technologies.
+Note that your spreadsheet program is already a type of data visualization, though a very general and not especially useful one for our current goal of exploring this . What we need is a way to easily select one or a few of the columns and visualize their values.
 
 ### Step 2: Google Fusion Tables
 
@@ -72,7 +72,7 @@ What other visualizations can you make using Fusion tables and the data in its c
 
 What can't you do in Fusion Tables with the data in its current form? For example, I might want to trace the occurrence of books with prefaces over time - as both raw numbers and as a percentage of books in the collection for any given decade - but I would have to transform this data in order to do that. (What would I need to do?)
 
-### Word cloud
+### Step 3: Word cloud
 
 The set of fields that break down the novels' titles are text data rather numerical data; while we could do some counts of them in Fusion, perhaps a visualization tool better suited to a collection of words, like a simple word cloud, would make more sense.
 
@@ -80,8 +80,10 @@ In Excel or another spreadsheet program, copy the column you are interested in. 
 
 Copy the resulting words (the extra spaces won't make a difference) and drop them into [this wordcloud generator](www.jasondavies.com/wordcloud) or another of your choosing.
 
-### Write
+### Step 4: Write
 
-Write a few paragraphs about what you have learned about this metadata and the set of novels it describes. What were you able to learn about this dataset? What would you have liked to learn about the existing data but were unable to because of the data's form or the tools you had? If you had more tools or more data (either different types of metadata or more metadata or both), can you imagine research questions you would like to ask? Have you learned anything, large or small, about the process of visualizing and analyzing metadata?
+Write a few paragraphs about what you have learned about this metadata and the set of novels it describes. What were you able to learn about this dataset? What would you have liked to learn about the existing data but were unable to because of the data's form or the tools you had? If you had more tools or more data (either different types of metadata or more metadata or both), can you imagine research questions you would like to ask? Have you learned anything, large or small, about the process of visualizing and analyzing metadata? Post to Known with #Exercise4 #metadata and anything else you would like to add.
 
+### Remember
 
+This is the first iteration of this assignment; if you run into bugs or other difficulties, please let me know.
