@@ -46,7 +46,7 @@ CatalogedBy - The name or initials of the student researcher who created most of
 + TitleAdverbs - Adverbs in the title.
 ****
 
-Note that your spreadsheet program is already a type of data visualization, though a very general and not especially useful one for our current goal of exploring this . What we need is a way to easily select one or a few of the columns and visualize their values. To do this, we will use a few simple technologies.
+Note that your spreadsheet program is already a type of data visualization, though a very general and not especially useful one for our current goal of exploring this . What we need is a way to easily select one or a few of the columns and visualize their values.
 
 ### Step 2: Google Fusion Tables
 
