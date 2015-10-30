@@ -16,36 +16,35 @@ What does the collection of 855 novels described in these records represent? Tha
 To get a first look at the metadata set, find the exercise6ENDmetadata1700_1779 file on our Github and download it. Open the file with a spreadsheet program (Excel or similar). Look at it; you will see that each line is a set of metadata about an individual novel, and each column represents a value or metadata field. Here is a list of descriptions of each one:
 
 ****
-OCLC  - A relatively number used for bibliographic control.
-AuthorName	 - Author's name, if known.
-AuthorDates	- Author's birth and death dates, if known.
-Title - the full title transcribed from the first full title page.
-PubLocation - The city in which the novel was published, transcribed from the title page.
-PubDate - The date of publication transcribed from the title page
-Format - The book's format (more on this in class) - based on how many times each sheet has been folded to form each gathering.
-VolumeStatement	 - Number of volumes the book declares on its first title page.
-ParatextTitle - Standardized names of all existing paratexts aside from the title page and advertisements - 	prefaces, dedications, tables of contents, indexes. Note that a blank cell means that the book does not include any of these.
-EpigraphBoolean	- Does this work have an epigraph on the title page? 0=no, 1 = yes
-NarrativeForm - The primary narrative form of the novel as determined by the cataloger. (Very subjective!)
-NarrativeFormAdditional	- Additional narrative forms in the novel as determined by the cataloger.
-NonProseForms - Poems? Sheet music? Other non-prose forms, as determined by the cataloger?
-InscriptionBoolean- Does this work have an inscription (the name of a person, usually an owner) on the title page? 0=no, 1 = yes
-marginaliaBoolean - Does this work contain any marginalia (writing in the book)? 0=no, 1 = yes
-TranslationClaims - Claims about the text's being a translation, abridgment, or adaptation made on the title page or in the paratext, regardless of actual status of the text.
++ OCLC  - A relatively number used for bibliographic control.
++ AuthorName	 - Author's name, if known.
++ AuthorDates	- Author's birth and death dates, if known.
++ Title - the full title transcribed from the first full title page.
++ PubLocation - The city in which the novel was published, transcribed from the title page.
++ PubDate - The date of publication transcribed from the title page
++ Format - The book's format (more on this in class) - based on how many times each sheet has been folded to form each gathering.
++ VolumeStatement	 - Number of volumes the book declares on its first title page.
++ ParatextTitle - Standardized names of all existing paratexts aside from the title page and advertisements - 	prefaces, dedications, tables of contents, indexes. Note that a blank cell means that the book does not include any of these.
++ EpigraphBoolean	- Does this work have an epigraph on the title page? 0=no, 1 = yes
++ NarrativeForm - The primary narrative form of the novel as determined by the cataloger. (Very subjective!)
++ NarrativeFormAdditional	- Additional narrative forms in the novel as determined by the cataloger.
++ NonProseForms - Poems? Sheet music? Other non-prose forms, as determined by the cataloger?
++ InscriptionBoolean- Does this work have an inscription (the name of a person, usually an owner) on the title page? 0=no, 1 = yes
++ MarginaliaBoolean - Does this work contain any marginalia (writing in the book)? 0=no, 1 = yes
++ TranslationClaims - Claims about the text's being a translation, abridgment, or adaptation made on the title page or in the paratext, regardless of actual status of the text.
 CatalogedBy - The name or initials of the student researcher who created most of the metadata in the record.
 
 *The following are lists of elements of the full title taken from the novel's first title page.*
 
-TitleOtherWorks - Titles of other books included on the title page, often as part of an author statement, ie, "*Pride and Prejudice*, by the author of *Sense and Sensibility*."
-TitleNouns - Nouns in the title.
-TitleAdjectives - Adjectives in the title.
-TitlePlaces - Place names in the title.
-TitleNames - Names of people in the title.
-TitleVerbs - Verbs in the title.
-TitleObjects - Material objects referenced in the title.
-TitleAdverbs - Adverbs in the title.
++ TitleOtherWorks - Titles of other books included on the title page, often as part of an author statement, ie, "*Pride and Prejudice*, by the author of *Sense and Sensibility*."
++ TitleNouns - Nouns in the title.
++ TitleAdjectives - Adjectives in the title.
++ TitlePlaces - Place names in the title.
++ TitleNames - Names of people in the title.
++ TitleVerbs - Verbs in the title.
++ TitleObjects - Material objects referenced in the title.
++ TitleAdverbs - Adverbs in the title.
 ****
-
 
 Note that your spreadsheet program is already a type of data visualization, though a very general and not especially useful one for our current goal of exploring this . What we need is a way to easily select one or a few of the columns and visualize their values. To do this, we will use a few simple technologies.
 
