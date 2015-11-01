@@ -50,7 +50,9 @@ Note that your spreadsheet program is already a type of data visualization, thou
 
 ### Step 2: Google Fusion Tables
 
-First, we will Google Fusion tables, which is a relatively simple way to take a spreadsheet of information and create some visualizations from it.  Go to www.google.com/fusiontables, sign in with your Google account (create one if you don't have one), and find and upload the exercise6ENDmetadata1700_1779 file. (To get the most out of this exercise, consider viewing some of the Fusion tutorials before moving on the explore the END metadata.)
+First, we will Google Fusion tables, which is a relatively simple way to take a spreadsheet of information and create some visualizations from it.  Go to www.google.com/fusiontables, sign in with your Google account (create one if you don't have one), and find and upload the exercise6ENDmetadata1700_1779 file. Choose "comma" for "separator character" and "UTF-8" for "character encoding" if they are not already chosen as default. Then click "next." You will get to a file that will show you a preview of the table; at the top, for "column names are in row" make sure "1" is chosen. Click "next." In the next window, uncheck "allow download" and attribute the data to "The Early Novels Database." Click to finish and everything should finally import.  (To get the most out of this exercise, consider viewing some of the Fusion tutorials before moving on the explore the END metadata.)
+
+*Note: please do not make your table public. If you want to share it with someone, use the sharing settings to generate a link that allows people with the link to view the table, and check the box preventing viewers from re-sharing.*
 
 After you have created your table, you will see some tabs. In the first tab, you will find a spreadsheet. Each row represents a record of a different novel. Each column represents a different metadata field. *These are just a selection of fields pulled from a larger, messy, in-process metadata set; some of them will be more interesting than others. Some will be interesting but you will discover are not yet in a form you can use given your existing tools.* [^2]
 
