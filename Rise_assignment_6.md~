@@ -13,7 +13,7 @@ You have a csv (comma separated values) file of selected metadata on about 855 n
 
 What does the collection of 855 novels described in these records represent? That's a difficult question. The novels (or, much more accurately, prose fictions) are all in English; they were all published between 1700 and 1779 (with a few experimental outliers published; and they are drawn from a few places; from Penn's Collection of British and American Fiction, 1660-1830, and from the Swarthmore and Bryn Mawr libraries, and from the Library Company of Philadelphia. To know how the novels represented in this metadata relate to the entire world of early novels in English published would require more research. But to give you some sense, we can take the 1760s as a sample decade. *A rough estimate  suggests that about 639 unique titles of prose fiction in English were published in the 1760s, and our END metadata set includes 132 of them, or about 21%.*
 
-To get a first look at the metadata set, find the exercise6ENDmetadata1700_1779 file on our Github and download it. Open the file with a spreadsheet program (Excel or similar). Look at it; you will see that each line is a set of metadata about an individual novel, and each column represents a value or metadata field. Here is a list of descriptions of each one:
+To get a first look at the metadata set, find the exercise6ENDmetadata1700_1779 file on our Github or in our Dropbox "Assignments" folder and download it. Click through to look at the file on Github or open the file with a spreadsheet program (Excel or similar) and look at it. You will see that each line is a set of metadata about an individual novel, and each column represents a value or metadata field. Here is a list of descriptions of each one:
 
 ****
 + OCLC  - A relatively number used for bibliographic control.
@@ -82,7 +82,7 @@ Copy the resulting words (the extra spaces won't make a difference) and drop the
 
 ### Step 4: Write
 
-Write a few paragraphs about what you have learned about this metadata and the set of novels it describes. What were you able to learn about this dataset? What would you have liked to learn about the existing data but were unable to because of the data's form or the tools you had? If you had more tools or more data (either different types of metadata or more metadata or both), can you imagine research questions you would like to ask? Have you learned anything, large or small, about the process of visualizing and analyzing metadata? Post to Known with #Exercise4 #metadata and anything else you would like to add.
+Write a few paragraphs about what you have learned about this metadata and the set of novels it describes. What were you able to learn about this dataset? What would you have liked to learn about the existing data but were unable to because of the data's form or the tools you had? If you had more tools or more data (either different types of metadata or more metadata or both), can you imagine research questions you would like to ask? Have you learned anything, large or small, about the process of visualizing and analyzing metadata? Post to Known with #Exercise6 #metadata and anything else you would like to add.
 
 ### Remember
 
