@@ -135,7 +135,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### October 28
 + *Northanger Abbey*, continued
-+ exercise 6 assigned
++ [exercise 6](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_6.md) assigned
 
 ##### October 30
 + selection from Anderson, *Imagined Communities*
@@ -152,7 +152,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 + *The Moonstone*, continued
 
 ##### November 6
-+ Early Novels Database students present Summer 2015 projects (tentative)
++ no class
 
 ### Week XI: *The Moonstone*
 

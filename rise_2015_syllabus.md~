@@ -135,7 +135,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### October 28
 + *Northanger Abbey*, continued
-+ exercise 6 due; exercise 7 assigned
++ exercise 6 assigned
 
 ##### October 30
 + selection from Anderson, *Imagined Communities*
