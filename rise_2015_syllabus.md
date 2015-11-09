@@ -168,7 +168,6 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 ##### November 13
 + selection from Foucault, *Discipline and Punish*
 + selection from Miller, *The Novel and the Police* (Introduction and ch 2)
-+ selection from Said, *Orientalism*
 
 ### Week XII: Daisy Miller (1878)
 
