@@ -173,6 +173,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### November 16
 + *Daisy Miller*, all
++ 1-2 paragraph plan for experimental bibliography due
 
 ##### November 18
 + James, "The Figure in the Carpet"
