@@ -182,12 +182,13 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### November 20
 + Jameson, “The Realist Floor-plan”
-+ house of fiction passage
++ discuss criticism exam
 
 ### Week XIII: *Ulysses* (1922)
 
 ##### November 23
 + *Ulysses*, "Nausicaa" chapter
++ [Infinite Ulysses](www.infiniteulysses.com) (tentative)
 + exercise 8 due; exercise 9 assigned
 
 ##### November 25
@@ -204,7 +205,6 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### December 2
 + exercise 9 due
-+ [Infinite Ulysses](www.infiniteulysses.com) (tentative)
 + Homi Bhabha, “The World and the Home” handout
 
 ##### December 4
