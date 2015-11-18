@@ -188,8 +188,8 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### November 23
 + *Ulysses*, "Nausicaa" chapter
-+ [Infinite Ulysses](www.infiniteulysses.com) (tentative)
-+ exercise 8 due; exercise 9 assigned
++ optional: take a look at [Infinite Ulysses](www.infiniteulysses.com)
++ exercise 8 assigned
 
 ##### November 25
 + no class (begin reading A House for Mr. Biswas)
@@ -204,7 +204,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 + final paper plans due; final paper meetings with me this week
 
 ##### December 2
-+ exercise 9 due
++ exercise 8 due
 + Homi Bhabha, “The World and the Home” handout
 
 ##### December 4
