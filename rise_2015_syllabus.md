@@ -37,7 +37,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### September 4
 + *Robinson Crusoe*, continued
-+ exercise 1 due ([responses](http://rise2015.rachelsagnerbuurma.org/tag/assignment1), [exercise 2](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_2.md) assigned
++ exercise 1 due ([responses](http://rise2015.rachelsagnerbuurma.org/tag/assignment1)), [exercise 2](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_2.md) assigned
 
 ### Week II: *Robinson Crusoe* (1719)
 
@@ -74,7 +74,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### September 23
 + *Shamela*, continued
-+ exercise 3 due ([responses](http://rise2015.rachelsagnerbuurma.org/tag/Exercise3); [exercise 4](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_4.md) assigned
++ exercise 3 due ([responses](http://rise2015.rachelsagnerbuurma.org/tag/Exercise3)); [exercise4](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_4.md) assigned
 
 ##### September 25
 + McKeon, "Generic Transformation and Social Change"
@@ -116,7 +116,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### October 21
 + *Evelina*, continued
-+ exercise 5 due ([responses](http://rise2015.rachelsagnerbuurma.org/tag/Exercise7)
++ exercise 5 due ([responses](http://rise2015.rachelsagnerbuurma.org/tag/Exercise7))
 + narrative monologue handout based on Cohn, *Transparent Minds*
 
 ##### October 23
@@ -142,7 +142,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### November 2
 + *The Moonstone*, 3-271
-+ exercise 6 due([responses](http://rise2015.rachelsagnerbuurma.org/tag/Exercise6)
++ exercise 6 due([responses](http://rise2015.rachelsagnerbuurma.org/tag/Exercise6))
 
 ##### November 4
 + [exercise 7 assigned](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_7.md)
@@ -176,17 +176,17 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 ##### November 18
 + James, "The Figure in the Carpet"
 + (working on experimental descriptive project)
-+ exercise 7 due ([responses](http://rise2015.rachelsagnerbuurma.org/tag/Exercise7); exercise 8 assigned
++ exercise 7 due ([responses](http://rise2015.rachelsagnerbuurma.org/tag/Exercise7)); exercise 8 assigned
 
 ##### November 20
 + Jameson, “The Realist Floor-plan”
-+ discuss criticism exam
 
 ### Week XIII: *Ulysses* (1922)
 
 ##### November 23
 + *Ulysses*, "Nausicaa" chapter
 + optional: take a look at [Infinite Ulysses](www.infiniteulysses.com)
++ discuss criticism exam
 + exercise 8 assigned
 
 ##### November 25
