@@ -31,7 +31,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 ##### September 2
 + *Robinson Crusoe*, 1-56
 + RC's republishing history - in title pages
-+ Before novels
++ fiction and the novel
 + Close Reading a Novel
 + [exercise 1](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_1.md) assigned
 

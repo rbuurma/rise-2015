@@ -187,7 +187,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 + *Ulysses*, "Nausicaa" chapter
 + optional: take a look at [Infinite Ulysses](www.infiniteulysses.com)
 + discuss criticism exam
-+ exercise 8 assigned
++ [exercise 8 assigned](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_8.md)
 
 ##### November 25
 + no class (begin reading A House for Mr. Biswas)
