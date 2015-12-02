@@ -1,10 +1,8 @@
 ## Rise of the Novel Descriptive Bibliography Project Upload Instructions
 
-ADD EXPLANATION OF OMEKA HERE
-
 ### Getting Started
 
-Omeka is a free, open-source content management system and web-publishing platform or CMS which is used to create and display collections and exhibitions of library, archival, museum, and scholarly materials.
+Omeka is a free, open-source content management system and web-publishing platform or CMS which is used to create and display collections and exhibitions of library, archival, museum, and scholarly materials. We are using a Omeka installation created for us by Swarthmore ITS's Michael Kappeler to display our descriptive bibliography projects online: http://riseofthenovel.swarthmore.edu/
 
 In Omeka, a "collection" is made up of individual "items." For the purposes of the Rise of the Novel, each of us will create a separate "collection" for our assigned novel. Each collection will be made up of the following Item Types:
 

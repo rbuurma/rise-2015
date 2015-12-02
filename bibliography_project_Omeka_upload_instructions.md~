@@ -4,14 +4,18 @@ ADD EXPLANATION OF OMEKA HERE
 
 ### Getting Started
 
-Omeka is a content management system or CMS which is used to manage and display content collections. A collection is made up of individual items. For the purposes of the Rise of the Novel, each student will create a collection for their assigned novel. At a minimum each collection will be made up of the following Item Types:
+Omeka is a free, open-source content management system and web-publishing platform or CMS which is used to create and display collections and exhibitions of library, archival, museum, and scholarly materials.
 
-+ Traditional Description - This is an HTML rendering of the Novel’s Traditional Description.
+In Omeka, a "collection" is made up of individual "items." For the purposes of the Rise of the Novel, each of us will create a separate "collection" for our assigned novel. Each collection will be made up of the following Item Types:
+
++ Traditional Description - This is an HTML rendering of your traditional bibliographic description.
 + Experimental Description - This is where you will post your experimental description. It can include text, photo images of your description, videos, and/or audio clips.
-+ Commentary - Your commentary item contains two elements: 1) Your clear, considered sentence or two of explanation of how your experimental bibliography works to describe something about your novel that your traditional bibliography can't capture. 2) Your longer paragraph or two explanation.
-+ Collection Thumbnail - An image - something you create, find, or crop from a section of an image of your description. Used to generate the Thumbnail found on the front page of the site.
++ Commentary - Your commentary item contains two elements: 1) Your clear, considered sentence or two of explanation of how your experimental bibliography works to describe something about your novel that your traditional bibliography can't capture. This goes on the front page of your display, so you want it to be short, clear, and intriguing! 2) Your longer paragraph or two explanation. The reader needs to click through to get here.
++ Collection Thumbnail - An image - something you create, find, or crop from a section of an image of your description. It will generate the Thumbnail that represents your project on the front page of the site.
 
 Before adding any content to the Rise of the Novel site, you’ll need to log in here with the account information you have been sent: http://riseofthenovel.swarthmore.edu/admin
+
+You should have already received an email inviting you to activate your new account.
 
 ### Creating Your New Collection
 
@@ -91,8 +95,12 @@ In the "Text Excerpt" box, ignore the instructions: this isn't necessarily an ex
 
 ### Adding Items to Your Collection:  Collection Thumbnail
 
-+ Create a Collection Thumbnail image. This is the image that will represent your project on the front page of the website. Using photo editing software, select an image that you can crop as a square a 1x1 ratio). You might crop a square out of an image from your experimental project, or you might find a image elsewhere that does a good job of representing your project. (Note that if you find an image on the internet, you must make sure that you are free to use it and provide the source url and any other relevant information in the Dublin metadata fields.) Ideally you should crop your thumbnail to 400px x 400px. Save the image with a clear, recognizable name.
-+ Begin to create a new Item as in adding your Traditional Description, but in step 4 select Collection Thumbnail as your Item Type.
++ Create a Collection Thumbnail image.
+	+ This is the image that will represent your project on the front page of the website; you may want to look at the website to think about how it will look: http://riseofthenovel.swarthmore.edu/.
+	+ Using photo editing software, select an image that you can crop as a square a 1x1 ratio). You might crop a square out of an image from your experimental project, or you might find a image elsewhere that does a good job of representing your project. (Note that if you find an image on the internet, you must make sure that you are free to use it and provide the source url and any other relevant information in the Dublin metadata fields.)
+	+ One way to do this is to use iPhoto if you have a Mac to use. Make a new copy of the image you want to use. Open the it in iPhoto, select the "edit" option, click "crop," and select "square." Then make sure you save the edited image with a new name.
+	+ Another way to do this is to use Picasa. Download Picasa. Make a new copy of the image you want to use. Import it into Picasa and select the photo by double-clicking. On the left, you will see a editing bar. Select the tab with the wrench, and use the "crop" function with the 1x1 ratio dropdown to select and crop the square you want. Then make sure you save the edited image with a new name.
++ Back in Omeka, begin to create a new Item as in adding your Traditional Description, but in step 4 select Collection Thumbnail as your Item Type.
 + From the top of the page, select the tab item for Files.
 + Click the button labeled Choose File.
 + Select the appropriate file from your computer.
