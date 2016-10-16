@@ -24,21 +24,37 @@ Here are very detailed, step-by-step instructions. If you prefer, you are free t
 
 ##Using the Stanford NER on *Robinson Crusoe*
 
-If you are on a Mac, follow the directions below. If you are on a PC, follow [these directions](http://imgur.com/a/yCPJx), authored by Rise of the Novel 2015 student Claudia Lo. (Update to integrate these instructions into the text of this assignment in progress.)
+Download the [Stanford Named Entity Recognizer](http://nlp.stanford.edu/software/CRF-NER.shtml#Download) and unzip the file.
 
-1. Download the [Stanford Named Entity Recognizer](http://nlp.stanford.edu/software/CRF-NER.shtml#Download) and unzip the file.
-2. Open the file named ner-gui.command. 
+From here, the procedure you need to follow will differ depending on whether you're using a Mac or PC.
+
+Not getting the expected results? Scroll down to "Troubleshooting."
+
+### Mac instructions
+
+1. Open the file named "ner-gui.command".
    + You may get the following error message: "'ner-gui.command can't be opened because it is from an unidentified developer." You can get around this by control-clicking on the file and clicking "Open."
-3. This will open the NER program in two windows: in your Terminal and in a Java application window. In the second window, erase the pre-loaded text and click File -> Open File in the menu to open the clean Project Gutenberg version of *Crusoe* you will find in both the assignment folder and the repository. (We will talk more about how we create and find usable machine-readable text files of our novels in future assignments, and you will learn to create them yourself.)
-4. Click "Classifier" and choose "Load CRF from file." Navigate to where you have installed the NER and find the "Classifiers" folder. Select the file with 7 entities that ends in gz (full name "english.muc.7class.distsim.crf.ser.gz"). The seven entities (or categories the NER reads for) will appear on the right side of the window.
-5. Click the "Run NER" button then WAIT. It is likely that nothing will happen for the first few seconds, but clicking the button again will cause the NER to run twice, giving you duplicate results.
-6. Eventually, the text of RC will appear in the window with the relevant words tagged in the various entity colors. Interesting! But not very easy to use.
-7. Luckily, a more flexible form of the tagged entities awaits you in your Terminal. Click over to the Terminal now, and use Command-A and then Command-C to copy the entire list.
-8. Download, install, and open [Textwrangler](http://www.barebones.com/products/textwrangler/), a text editor that will help you process your results. Create a new file, paste the full list into it, and name it in some regular, identifiable way (for example, "RCNER.txt" or "RCList.txt").
+2. The NER program should open in two windows: in your Terminal and in a Java application window. In the second window, erase the pre-loaded text and click File -> Open File in the menu to open the clean Project Gutenberg version of *Crusoe* you will find in both the assignment folder and the repository. (We will talk more about how we create and find usable machine-readable text files of our novels in future assignments, and you will learn to create them yourself.)
+3. Click "Classifier" and choose "Load CRF from file." Navigate to where you have installed the NER and find the "Classifiers" folder. Select the file with 7 entities that ends in gz (full name "english.muc.7class.distsim.crf.ser.gz"). The seven entities (or categories the NER reads for) will appear on the right side of the window.
+4. Click the "Run NER" button then WAIT. It is likely that nothing will happen for the first few seconds, but clicking the button again will cause the NER to run twice, giving you duplicate results.
+5. Eventually, the text of RC will appear in the window with the relevant words tagged in the various entity colors. Interesting! But not very easy to use.
+6. Luckily, a more flexible form of the tagged entities awaits you in your Terminal. Click over to the Terminal now, and use Command-A and then Command-C to copy the entire list.
+7. Download, install, and open [Textwrangler](http://www.barebones.com/products/textwrangler/), a text editor that will help you process your results. Create a new file, paste the full list into it, and name it in some regular, identifiable way (for example, "RCNER.txt" or "RCList.txt").
+
+
+### PC instructions
+
+These instructions are adapted from ["Running the Stanford NER on Windows,"](http://imgur.com/a/yCPJx) by Rise of the Novel 2015 student Claudia Lo.
+
+
+
+### Troubleshooting
+
+If the NER won't open or only opens a Terminal window, the most likely reason is that your computer is running an older version of Java. You can check what version you have installed by clicking through to [this link](https://www.java.com/en/download/installed.jsp). Alternatively, if you're using a Mac, open your System Preferences and click the Java icon; on a PC, launch the Windows Start menu, then click through Programs -> Java -> About Java. As of 10/16/16, the current version of the NER needs Java 1.8 or later. If you have an earlier version installed, you can either update Java or download an [earlier version](http://nlp.stanford.edu/software/CRF-NER.shtml#History) of the NER (version 3.4.1 and earlier support Java 6 and 7).
 
 If you get stuck, refer to the very complete instructions in Michelle Moravic's [How to Use the Stanford NER and Get Results](http://historyinthecity.blogspot.com/2014/06/how-to-use-stanfords-ner-and-extract.html) or ["Using the Stanford Named Entity Recognizer to extract data from texts"](http://themacroscope.org/wp-content/uploads/2014/09/textanalysisandviz.html) in the preprint version of *The Historian's Macroscope*.
 
-If you are still stuck, ask a classmate who has done the exercise successfully or contact Nabil Kashyap (nkashya1 at swarthmore dot edu) or me. If you have trouble and you are on a Mac, check to see if you have the most recent version of the [Java Development Kit](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) installed. If you are on a PC, things are going to be a bit trickier. If you don't have access to a Mac, either consult the relevant section of ["Using the Stanford Named Entity Recognizer to extract data from texts"](http://themacroscope.org/wp-content/uploads/2014/09/textanalysisandviz.html) in the preprint version of *The Historian's Macroscope* or contact us for help or both. (I hope to update this assignment to include complete PC instructions shortly.)
+If you are still stuck, ask a classmate who has done the exercise successfully or contact Nabil Kashyap (nkashya1 at swarthmore dot edu) or me.
 
 ## Manipulate and Clean Your Data
 
@@ -58,7 +74,7 @@ Take a look at the new document; think about its length as compared to the lengt
 
 In another sense, we could say that though we have removed the literal duplicates, in another sense "duplicates" remain in the form of multiple different words or phrases referring to the same character or place, for example. What can you learn about the language and logic of *Robinson Crusoe* from these?
 
-Extra: Depending on what else you might want to do with your data in the future, you may want to clean or manipulate it in other ways. For more sophisticated comparison between , save one or more of your lists with a .csv instead of a .txt ending, download [OpenRefine](http://openrefine.org/) and watch the short introductory videos to learn how you can quickly count occurrences, identify and condense similar names, etc.
+Extra: Depending on what else you might want to do with your data in the future, you may want to clean or manipulate it in other ways. For more sophisticated comparison between lists, save one or more of your lists with a .csv instead of a .txt ending, download [OpenRefine](http://openrefine.org/) and watch the short introductory videos to learn how you can quickly count occurrences, identify and condense similar names, etc.
 
 As always, remember to create a new, clearly and regularly-labeled copy of your data every time you work with it in a new way.
 
