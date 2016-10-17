@@ -10,7 +10,7 @@ Topic modeling has become popular among humanists seeking to learn about sets of
 
 Crucially, topic modeling doesn’t have any semantic inputs – it doesn’t know ahead of time anything about the meanings of the words it is looking at (in fact, as far as the algorithm understands, it is looking at numbers). You just provide the documents and tell the program how many topics to “train” or create, set a few other parameters, set a stopword list if you like, and the algorithm does the rest.
 
-Once you run the topic modeling program on your set of documents, it gives you some outputs. We will be using MALLET, which will give you a list of groups of words that co-occur (“topics”).  MALLET also gives you a spreadsheet show what percentage of each topic occurs in each document.  It’s then up to us to interpret or label the “topics.”  Some will be fairly obvious. But some of the topics are more ambiguous, and thus in some ways more interesting.
+Once you run the topic modeling program on your set of documents, it gives you some outputs. We will be using MALLET, which will give you a list of groups of words that co-occur (“topics”).  MALLET also gives you a spreadsheet showing what percentage of each topic occurs in each document. It’s then up to us to interpret or label the “topics.”  Some will be fairly obvious. But some of the topics are more ambiguous, and thus in some ways more interesting.
 
 The second output MALLET gives you is a spreadsheet telling you what percentage of each topic occurs in each document. This is also interesting because it might point you to look at chapters (or books, if you are using a large corpus) that you might not otherwise look at. For example, in a model of novels by Richardson split into chapter-length documents, I can tell just from reading what chapters are 75% about a letter-writing topic, but topic modeling might help me notice a series of chapters that are 25% about writing and thus send me to look at them more closely – are those chapters converting language associated with referential representation of writing in some parts of the novel into metaphors? Or are they simply chapters in which letters play a smaller role?
 
@@ -55,13 +55,13 @@ Also possibly of interest: is there any apparent relation between what Barthes i
 
 ### Further optional reading
 
-Topic Modeling and Digital Humanities by David Blei in the special topic modeling issue of the Journal of Digital Humanities offers an accessible introduction.
+["Topic Modeling and Digital Humanities"](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/) by David Blei in the special topic modeling issue of the Journal of Digital Humanities offers an accessible introduction.
 
-In the same issue, Megan Brett’s Topic Modeling: A Basic Introduction reinforces the overview and the “applications” essays by Lisa Rhody and others give some use cases.
+In the same issue, Megan Brett’s ["Topic Modeling: A Basic Introduction"](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/) reinforces the overview and the “applications” essays by Lisa Rhody and others give some use cases.
 
-After doing this to orient yourself, you may wish to read Ted Underwood’s more technical blog post Topic modeling made just simple enough for a more detailed perspective.
+After doing this to orient yourself, you may wish to read Ted Underwood’s more technical blog post ["Topic modeling made just simple enough"](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/) for a more detailed perspective.
 
-For more technical detail, David Mimno's video "The Details: Training and Validating Big Models on Big Data" may be useful (without understanding all of it, I find it helpful).
+For more technical detail, David Mimno's video ["The Details: Training and Validating Big Models on Big Data"](http://journalofdigitalhumanities.org/2-1/the-details-by-david-mimno/) may be useful (without understanding all of it, I find it helpful).
 
 Scott Weingart’s 2012 [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113) is partly his own explanation and partly a nice overview of increasingly complex introductions to topic modeling; it is a bit outdated at this point, however, as it won’t include work published after 2012.
 
