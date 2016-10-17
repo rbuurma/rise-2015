@@ -11,12 +11,12 @@ Now we are going to look in more depth at two elements: metadata (in this exerci
 
 You have a csv (comma separated values) file of selected metadata on about 855 novels published between 1700 and 1779. This hybrid metadata began its life in a library card catalog record, and was then exported and enriched with additional information by students working for the [Early Novels Database](earlynovels.org). This data was made by people and has been selected and pulled from an in-progress dataset; there will be errors! (If you are interested, here is a [more minimal set of metadata records for eighteenth-century novels]([https://github.com/rbuurma/rise-2015/blob/master/Underwood_HTRC_fiction_metadata_1700s.csv](https://github.com/rbuurma/rise-2015/blob/master/Underwood_HTRC_fiction_metadata_1700s.csv)) that exist in full-text digitized form in HathiTrust and as a subset of the HathiTrust Research Center [extracted features dataset]([https://analytics.hathitrust.org/features](https://analytics.hathitrust.org/features)) - scroll down to "sample files.")<sup>[1](#footnote1)</sup>
 
-What does the collection of 855 novels described in these records represent? That's a difficult question. The novels (or, much more accurately, prose fictions) are all in English; they were all published between 1700 and 1779 (with a few experimental outliers published); and they are drawn from a few places: from Penn's Collection of British and American Fiction, 1660-1830, and from the Swarthmore and Bryn Mawr libraries, and from the Library Company of Philadelphia. To know how the novels represented in this metadata relate to the entire world of early novels in English published would require more research. But to give you some sense, we can take the 1760s as a sample decade. *A rough estimate  suggests that about 639 unique titles of prose fiction in English were published in the 1760s, and our END metadata set includes 132 of them, or about 21%.*
+What does the collection of 855 novels described in these records represent? That's a difficult question. The novels (or, much more accurately, prose fictions) are all in English; they were all published between 1700 and 1779; and they are drawn from a few places: from Penn's Collection of British and American Fiction, 1660-1830, and from the Swarthmore and Bryn Mawr libraries, and from the Library Company of Philadelphia. To know how the novels represented in this metadata relate to the entire world of early novels in English published would require more research. But to give you some sense, we can take the 1760s as a sample decade. *A rough estimate  suggests that about 639 unique titles of prose fiction in English were published in the 1760s, and our END metadata set includes 132 of them, or about 21%.*
 
 To get a first look at the metadata set, find the exercise6ENDmetadata1700_1779 file on our Github or in our Dropbox "Assignments" folder and download it. Click through to look at the file on Github or open the file with a spreadsheet program (Excel or similar) and look at it. You will see that each line is a set of metadata about an individual novel, and each column represents a value or metadata field. Here is a list of descriptions of each one:
 
 ****
-+ OCLC  - A relatively number used for bibliographic control.
++ OCLC - A number used for bibliographic control
   + AuthorName - Author's name, if known.
   + AuthorDates- Author's birth and death dates, if known.
 + Title - the full title transcribed from the first full title page.
@@ -46,7 +46,7 @@ To get a first look at the metadata set, find the exercise6ENDmetadata1700_1779 
 + TitleAdverbs - Adverbs in the title.
 ****
 
-Note that your spreadsheet program is already a type of data visualization, though a very general and not especially useful one for our current goal of exploring this . What we need is a way to easily select one or a few of the columns and visualize their values.
+Note that your spreadsheet program is already a type of data visualization, though a very general and not especially useful one for our current goal of exploring this dataset. What we need is a way to easily select one or a few of the columns and visualize their values.
 
 ### Step 2: Google Fusion Tables
 
@@ -54,7 +54,7 @@ First, we will use Google Fusion tables, which is a relatively simple way to tak
 
 *Note: please do not make your table public. If you want to share it with someone, use the sharing settings to generate a link that allows people with the link to view the table, and check the box preventing viewers from re-sharing.*
 
-After you have created your table, you will see some tabs. In the first tab, you will find a spreadsheet. Each row represents a record of a different novel. Each column represents a different metadata field. *These are just a selection of fields pulled from a larger, messy, in-process metadata set; some of them will be more interesting than others. Some will be interesting but you will discover are not yet in a form you can use given your existing tools.* [^2]
+After you have created your table, you will see some tabs. In the first tab, you will find a spreadsheet. Each row represents a record of a different novel. Each column represents a different metadata field. *These are just a selection of fields pulled from a larger, messy, in-process metadata set; some of them will be more interesting than others. Some will be interesting but you will discover are not yet in a form you can use given your existing tools.*
 
 Most of the columns will define their data type as "text," but you may wish to modify these. To do this, use the drop-down menu at the top of the column to select "change" and then change the "type" to the best form. For example, probably PubLocation and TitlePlaces should be set to "location" if they aren't already, "PubDate" should be "date-time," etc.
 
