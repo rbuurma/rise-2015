@@ -50,7 +50,7 @@ Note that your spreadsheet program is already a type of data visualization, thou
 
 ### Step 2: Google Fusion Tables
 
-First, we will Google Fusion tables, which is a relatively simple way to take a spreadsheet of information and create some visualizations from it.  Go to www.google.com/fusiontables, sign in with your Google account (create one if you don't have one), and find and upload the exercise6ENDmetadata1700_1779 file. Choose "comma" for "separator character" and "UTF-8" for "character encoding" if they are not already chosen as default. Then click "next." You will get to a file that will show you a preview of the table; at the top, for "column names are in row" make sure "1" is chosen. Click "next." In the next window, uncheck "allow download" and attribute the data to "The Early Novels Database." Click to finish and everything should finally import.  (To get the most out of this exercise, consider viewing some of the Fusion tutorials before moving on the explore the END metadata.)
+First, we will use Google Fusion tables, which is a relatively simple way to take a spreadsheet of information and create some visualizations from it. Go to www.google.com/fusiontables, sign in with your Google account (create one if you don't have one), and find and upload the exercise6ENDmetadata1700_1779 file. Choose "comma" for "separator character" and "UTF-8" for "character encoding" if they are not already chosen as default. Then click "next." You will get to a file that will show you a preview of the table; at the top, for "column names are in row" make sure "1" is chosen. Click "next." In the next window, uncheck "allow download" and attribute the data to "The Early Novels Database." Click to finish and everything should finally import.  (To get the most out of this exercise, consider viewing some of the Fusion tutorials before moving on the explore the END metadata.)
 
 *Note: please do not make your table public. If you want to share it with someone, use the sharing settings to generate a link that allows people with the link to view the table, and check the box preventing viewers from re-sharing.*
 
@@ -78,7 +78,7 @@ What can't you do in Fusion Tables with the data in its current form? For exampl
 
 The set of fields that break down the novels' titles are text data rather numerical data; while we could do some counts of them in Fusion, perhaps a visualization tool better suited to a collection of words, like a simple word cloud, would make more sense.
 
-In Excel or another spreadsheet program, copy the column you are interested in. Paste it into TextWrangler or a similar program. Using the "find a replace" function, find all of the commas and replace them with one blank space.
+In Excel or another spreadsheet program, copy the column you are interested in. Paste it into TextWrangler, Notepad++, or a similar program. Using the "find a replace" function, find all of the commas and replace them with one blank space.
 
 Copy the resulting words (the extra spaces won't make a difference) and drop them into www.jasondavies.com/wordcloud or another wordcloud generator of your choosing.
 
