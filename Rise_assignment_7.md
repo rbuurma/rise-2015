@@ -18,19 +18,14 @@ The second output MALLET gives you is a spreadsheet telling you what percentage 
 
 We will be returning to the 1760s in this assignment, so have a quick think back to *Tristram Shandy*.  Our working corpus is comprised of 41 titles printed during the 1760s, in a total of 61 volumes. A little under half are new editions of novels first published in previous decades, such as *Pamela*. Thus, this corpus gives us a sense of the literary field of the 1760s, and a more fleshed-out (though still partial) context for *Tristram Shandy.*
 
-### Preparing the Topic Modeling Tool
+### Topic Modeling 41 Works of Fiction from the 1760s
 
 **NOTE:** If you have any issues downloading or running Topic Modeling Tool, feel free to use any of the 6 iMac workstations in the public computing area in McCabe Library.
 
-+ Go to https://topic-modeling-tool.googlecode.com/files/TopicModelingTool.jar to download the Topic Modeling Tool (a graphical user interface for Mallet).
+These directions have been lightly adapted from Annie Swafford’s excellent [“Topic Modeling assignment”](https://sherlockholmeslondondh.wordpress.com/2015/03/23/topic-modeling-assignment/) for her Digital Tools for the 21st Century: Sherlock Holmes's London class (SUNY New Paltz, Spring 2015).
 
-+ Open it up. If you are on a Mac, there is a good chance that your security settings will refuse to allow you to do such a clearly dangerous thing. To override them, click on the ? you will see on the pop-up box and follow the instructions to locate the downloaded app in finder, press the Control key while clicking the app icon, and choosing Open from the shortcut menu.
-
-### Topic Modeling 41 Works of Fiction from the 1760s
-
-*Note: these directions have been lightly adapted from Annie Swafford’s exellent [“Topic Modeling assignment”](https://sherlockholmeslondondh.wordpress.com/2015/03/23/topic-modeling-assignment/) for her Digital Tools for the 21st Century: Sherlock Holmes's London class (SUNY New Paltz, Spring 2015).
-
-+ First download [the assignment data](https://github.com/bulbil/rise-assignment7-data/archive/master.zip) (this folder also includes the Topic Modeling Tool application file)
++ First download [the assignment data](https://github.com/bulbil/rise-assignment7-data/archive/master.zip). This folder also includes the Topic Modeling Tool, a graphical user interface for Mallet. (You can also download the topic modeling tool on its own [here](http://nlp.stanford.edu/software/tmt/tmt-0.4/).)
++ Open the topic modeling tool. If you are on a Mac, there is a good chance that your security settings will refuse to allow you to do such a clearly dangerous thing. To override them, click on the ? you will see on the pop-up box and follow the instructions to locate the downloaded app in finder, press the Control key while clicking the app icon, and choosing Open from the shortcut menu.
 + Click on the button labeled “Select Input File or Dir” and choose the folder with the 1760s corpus that you have saved to your own computer and select “Open.”
 + Click on the button labeled “Select Output Dir.”
 + Click the icon that looks like a folder in the upper right part of the window to create a new folder.
