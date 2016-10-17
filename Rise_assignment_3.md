@@ -40,11 +40,11 @@ Glance through the list of words in the bottom-left hand corner of the screen—
 
 Try selecting a word, and see its frequency over time appear in the upper-right-hand "word trends" window. Play around until you figure out how to compare multiple words; then try to come up with some interesting single words and interesting comparisons.
 
-For example, if I use the "search" box in the "words in the corpus" window to search for the word "know," it will find "know", "knows", "known", and "knowning" (also "acknowledge" and "knowledge"), and will graph their frequency over the duration of the text (arbitrarily split into ten segments) in the "word trends" window. I can choose the "collapse terms" box to see a unified trendline for the four words. (I can also click the heart icon to add those words to my favorites for later.) Then I try to think of a word or words I want to graph against "know" - "feel" suggests itself to me, but I find no occurrences! I set this negative finding aside to investigate later, and move on to compare some more trends.
+For example, if I use the "search" box in the "words in the corpus" window to search for the word "know," it will find "know", "knows", "known", and "knowing" (also "acknowledge" and "knowledge"), and will graph their frequency over the duration of the text (arbitrarily split into ten segments) in the "word trends" window. I can choose the "collapse terms" box to see a unified trendline for the four words. (I can also click the heart icon to add those words to my favorites for later.) Then I try to think of a word or words I want to graph against "know" - "feel" suggests itself to me, but I find no occurrences! I set this negative finding aside to investigate later, and move on to compare some more trends.
 
 Note especially that the "word trends" screen is not very useful in the small window; to use it you will have to toggle back and forth between the Voyant dashboard and the maximized word trends screen to use it effectively.
 
-For further guidance, here is the [Voyant documentation](http://docs.voyant-tools.org/); it includes links to additional tools you can use in Voyant (milage may vary) and tutorials. I also recommend that you spend a little time playing around with voyant.
+For further guidance, here is the [Voyant documentation](http://docs.voyant-tools.org/); it includes links to additional tools you can use in Voyant (milage may vary) and tutorials. I also recommend that you spend a little time playing around with Voyant.
 *Consider taking some screen shots to illustrate your write-up.*
 
 #### Step 5
