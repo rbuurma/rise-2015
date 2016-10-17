@@ -47,12 +47,10 @@ Not getting the expected results? Scroll down to "Troubleshooting."
 These instructions are adapted from ["Running the Stanford NER on Windows,"](http://imgur.com/a/yCPJx) by Rise of the Novel 2015 student Claudia Lo.
 
 1. Open the file named "ner-gui.bat" in the NER folder.
-2. The NER program should open in two windows: in your Terminal and in a Java application window. In the second window, erase the pre-loaded text and click File -> Open File in the menu to open the clean Project Gutenberg version of *Crusoe* you will find in both the assignment folder and the repository. (We will talk more about how we create and find usable machine-readable text files of our novels in future assignments, and you will learn to create them yourself.)
-3. Click "Classifier" and choose "Load CRF from file." Navigate to where you have installed the NER and find the "Classifiers" folder. Select the file with 7 entities that ends in gz (full name "english.muc.7class.distsim.crf.ser.gz"). The seven entities (or categories the NER reads for) will appear on the right side of the window.
-4. Click the "Run NER" button then WAIT. It is likely that nothing will happen for the first few seconds, but clicking the button again will cause the NER to run twice, giving you duplicate results.
-5. Eventually, the text of RC will appear in the window with the relevant words tagged in the various entity colors. Interesting! But not very easy to use.
-6. Luckily, a more flexible form of the tagged entities awaits you in your Terminal. Click over to the Terminal now, and use Command-A and then Command-C to copy the entire list.
-7. Download, install, and open [Notepad++](https://notepad-plus-plus.org/download/v7.1.html), a text editor that will help you process your results. Create a new file, paste the full list into it, and name it in some regular, identifiable way (for example, "RCNER.txt" or "RCList.txt").
+
+   [FILL THIS IN.]
+
+2. Download, install, and open [Notepad++](https://notepad-plus-plus.org/download/v7.1.html), a text editor that will help you process your results. Create a new file, paste the full list into it, and name it in some regular, identifiable way (for example, "RCNER.txt" or "RCList.txt").
 
 
 ### Troubleshooting
