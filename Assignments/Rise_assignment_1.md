@@ -57,6 +57,8 @@ These instructions are adapted from ["Running the Stanford NER on Windows,"](htt
 
 If the NER won't open or only opens a Terminal window, the most likely reason is that your computer is running an older version of Java. You can check what version you have installed by clicking through to [this link](https://www.java.com/en/download/installed.jsp). Alternatively, if you're using a Mac, open your System Preferences and click the Java icon; on a PC, launch the Windows Start menu, then click through Programs -> Java -> About Java. As of 10/16/16, the current version of the NER needs Java 1.8 or later. If you have an earlier version installed, you can either update Java or download an [earlier version](http://nlp.stanford.edu/software/CRF-NER.shtml#History) of the NER (version 3.4.1 and earlier support Java 6 and 7).
 
+[Recommend that they install Java JRE? But checking whether it's already installed seems complicated, and installing it seems to break Java in a way that I can't figure out how to fix!]
+
 If you get stuck, refer to the very complete instructions in Michelle Moravic's [How to Use the Stanford NER and Get Results](http://historyinthecity.blogspot.com/2014/06/how-to-use-stanfords-ner-and-extract.html) or ["Using the Stanford Named Entity Recognizer to extract data from texts"](http://themacroscope.org/wp-content/uploads/2014/09/textanalysisandviz.html) in the preprint version of *The Historian's Macroscope*.
 
 If you are still stuck, ask a classmate who has done the exercise successfully or contact Nabil Kashyap (nkashya1 at swarthmore dot edu) or me.
