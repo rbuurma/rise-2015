@@ -90,4 +90,10 @@ Write a few paragraphs about what you have learned about this metadata and the s
 
 This is the first iteration of this assignment; if you run into bugs or other difficulties, please let me know. 
 
+
+
+```
+<a name="myfootnote1">1</a>: Boris Capitanu, Ted Underwood, Peter Organisciak, Sayan Bhattacharyya, Loretta Auvil, Colleen Fallaw, J. Stephen Downie (2015).Extracted Feature Dataset from 4.8 Million HathiTrust Digital Library Public Domain Volumes (0.2)[Dataset]. HathiTrust Research Center, doi:10.13012/j8td9v7m.
+```
+
 [^1]: Boris Capitanu, Ted Underwood, Peter Organisciak, Sayan Bhattacharyya, Loretta Auvil, Colleen Fallaw, J. Stephen Downie (2015).Extracted Feature Dataset from 4.8 Million HathiTrust Digital Library Public Domain Volumes (0.2)[Dataset]. HathiTrust Research Center, doi:10.13012/j8td9v7m.
