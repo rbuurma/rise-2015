@@ -3,38 +3,38 @@
 + Writeup due to Known before class Monday, November 2nd, 2015
 + Estimated time: 1-2 hours
 
-In exercise 5, we moved from using digital text analysis tools to examine single canonical novels to thinking about how we might look at some successively larger sets of novels. We examined some bibliographic metadata in both printed bibliographies and ECCO, and we visually examined digital facsimiles of eighteenth-century novels and also used the ARTEMIS tools to analyze and explore the OCR'd text of those facsimiles and the metadata attached to them. (Metadata, you will remember, is just "data about data"; bibliographic metadata is data about books, for example the electronic catalog records that accompanied the ECCO facsimiles. The metadata of a Word or PDF document usually contains information about the author, the program used, the time and date of composition, etc.)
+In exercise 5, we moved from using digital text analysis tools to examining single canonical novels to thinking about how we might look at some successively larger sets of novels. We examined some bibliographic metadata in both printed bibliographies and ECCO, and we visually examined digital facsimiles of eighteenth-century novels and also used the ARTEMIS tools to analyze and explore the OCR'd text of those facsimiles and the metadata attached to them. (Metadata, you will remember, is just "data about data"; bibliographic metadata is data about books, for example the electronic catalog records that accompanied the ECCO facsimiles. The metadata of a Word or PDF document usually contains information about the author, the program used, the time and date of composition, etc.)
 
-Now are going to look in more depth at two elements: metadata (in this exercise) and full texts (in exercise 7). We will play with some metadata and practice modeling a collection of novels to see what more we can learn about early fiction in English using these methods before turning to experiment with how we might ask research questions that join metadata with full-text analysis (in exercise 8).
+Now we are going to look in more depth at two elements: metadata (in this exercise) and full texts (in exercise 7). We will play with some metadata and practice modeling a collection of novels to see what more we can learn about early fiction in English using these methods before turning to experiment with how we might ask research questions that join metadata with full-text analysis (in exercise 8).
 
 ### Step 1: Look at the metadata.
 
-You have a csv (comma separated values) file of selected metadata on about 855 novels published between 1700 and 1779. This hybrid metadata began its life in a library card catalog record, and was then exported and enriched with additional information by students working for the Early Novels Database (earlynovels.org) . This data was made by people and has been selected and pull from an in-progress dataset; there will be errors! (If you are interested in looking at a cleaner but less interesting set of metadata records for eighteenth-century novels that exist in full-text digitized form in HathiTrust, here they are.)
+You have a csv (comma separated values) file of selected metadata on about 855 novels published between 1700 and 1779. This hybrid metadata began its life in a library card catalog record, and was then exported and enriched with additional information by students working for the [Early Novels Database](earlynovels.org). This data was made by people and has been selected and pulled from an in-progress dataset; there will be errors! (If you are interested in looking at a cleaner but less interesting set of metadata records for eighteenth-century novels that exist in full-text digitized form in HathiTrust, here they are.)
 
-What does the collection of 855 novels described in these records represent? That's a difficult question. The novels (or, much more accurately, prose fictions) are all in English; they were all published between 1700 and 1779 (with a few experimental outliers published; and they are drawn from a few places; from Penn's Collection of British and American Fiction, 1660-1830, and from the Swarthmore and Bryn Mawr libraries, and from the Library Company of Philadelphia. To know how the novels represented in this metadata relate to the entire world of early novels in English published would require more research. But to give you some sense, we can take the 1760s as a sample decade. *A rough estimate  suggests that about 639 unique titles of prose fiction in English were published in the 1760s, and our END metadata set includes 132 of them, or about 21%.*
+What does the collection of 855 novels described in these records represent? That's a difficult question. The novels (or, much more accurately, prose fictions) are all in English; they were all published between 1700 and 1779 (with a few experimental outliers published); and they are drawn from a few places: from Penn's Collection of British and American Fiction, 1660-1830, and from the Swarthmore and Bryn Mawr libraries, and from the Library Company of Philadelphia. To know how the novels represented in this metadata relate to the entire world of early novels in English published would require more research. But to give you some sense, we can take the 1760s as a sample decade. *A rough estimate  suggests that about 639 unique titles of prose fiction in English were published in the 1760s, and our END metadata set includes 132 of them, or about 21%.*
 
 To get a first look at the metadata set, find the exercise6ENDmetadata1700_1779 file on our Github or in our Dropbox "Assignments" folder and download it. Click through to look at the file on Github or open the file with a spreadsheet program (Excel or similar) and look at it. You will see that each line is a set of metadata about an individual novel, and each column represents a value or metadata field. Here is a list of descriptions of each one:
 
 ****
 + OCLC  - A relatively number used for bibliographic control.
-+ AuthorName	 - Author's name, if known.
-+ AuthorDates	- Author's birth and death dates, if known.
+  + AuthorName - Author's name, if known.
+  + AuthorDates- Author's birth and death dates, if known.
 + Title - the full title transcribed from the first full title page.
 + PubLocation - The city in which the novel was published, transcribed from the title page.
-+ PubDate - The date of publication transcribed from the title page
++ PubDate - The date of publication transcribed from the title page.
 + Format - The book's format (more on this in class) - based on how many times each sheet has been folded to form each gathering.
-+ VolumeStatement	 - Number of volumes the book declares on its first title page.
-+ ParatextTitle - Standardized names of all existing paratexts aside from the title page and advertisements - 	prefaces, dedications, tables of contents, indexes. Note that a blank cell means that the book does not include any of these.
-+ EpigraphBoolean	- Does this work have an epigraph on the title page? 0=no, 1 = yes
+  + VolumeStatement - Number of volumes the book declares on its first title page.
+  + ParatextTitle - Standardized names of all existing paratexts aside from the title page and advertisements - prefaces, dedications, tables of contents, indexes. Note that a blank cell means that the book does not include any of these.
+  + EpigraphBoolean- Does this work have an epigraph on the title page? 0=no, 1 = yes
 + NarrativeForm - The primary narrative form of the novel as determined by the cataloger. (Very subjective!)
-+ NarrativeFormAdditional	- Additional narrative forms in the novel as determined by the cataloger.
+  + NarrativeFormAdditional- Additional narrative forms in the novel as determined by the cataloger.
 + NonProseForms - Poems? Sheet music? Other non-prose forms, as determined by the cataloger?
 + InscriptionBoolean- Does this work have an inscription (the name of a person, usually an owner) on the title page? 0=no, 1 = yes
 + MarginaliaBoolean - Does this work contain any marginalia (writing in the book)? 0=no, 1 = yes
 + TranslationClaims - Claims about the text's being a translation, abridgment, or adaptation made on the title page or in the paratext, regardless of actual status of the text.
-CatalogedBy - The name or initials of the student researcher who created most of the metadata in the record.
++ CatalogedBy - The name or initials of the student researcher who created most of the metadata in the record.
 
-*The following are lists of elements of the full title taken from the novel's first title page.*
+*The following are lists of words or phrases appearing in the full title, as it appears on the novel's first title page.*
 
 + TitleOtherWorks - Titles of other books included on the title page, often as part of an author statement, ie, "*Pride and Prejudice*, by the author of *Sense and Sensibility*."
 + TitleNouns - Nouns in the title.
