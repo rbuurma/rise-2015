@@ -3,7 +3,7 @@
 
 This course engages with the long history of the novel, stretching from its eighteenth-century origins to its Victorian and Modernist incarnations through its post-colonial and post-modernist reconfigurations, with particular attention paid to the novel's production, circulation, reception, and materiality, and to digital methods for analyzing both individual texts and larger corpora. See the course [syllabus](https://github.com/ydshiroma/rise-2015/blob/master/Syllabus/rise_2015_syllabus.md) for a more extended overview of the major concerns and theoretical frameworks engaged in this course.
 
-[Assignments](https://github.com/ydshiroma/rise-2015/tree/master/Assignments) includes instructions and materials for a series of computer-assisted text analysis exercises, along with material contextualizing these exercises within various literary-critical debates regarding the novel, scholarly canons, and the digital humanities.
+[Assignments](https://github.com/ydshiroma/rise-2015/tree/master/Assignments) includes instructions and materials for a series of computationally-assisted text analysis exercises, along with material contextualizing these exercises within various literary-critical debates regarding the novel, scholarly canons, and the digital humanities.
 
 See also the text of an [assignment](https://github.com/ydshiroma/rise-2015/blob/master/Descriptive_bib_project/Rise_descriptive_bib_project.md) on traditional and alternative forms of bibliographic description.
 
