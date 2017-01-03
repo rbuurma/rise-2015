@@ -58,7 +58,7 @@ This portion of the assignment should help us think about the relationship betwe
 
 We won't be able to read the majority of these texts during the semester, but Voyant may be able to give us some sense of their contents. Go back to Voyant's main page, upload the zip file, and click Reveal. (You may also want to unzip the file and take a look at its contents.)
 
-Voyant should give you roughly the same windows as before, but this time they'll include analysis of all seven texts in the corpus. Document Terms will show you how word frequencies compare across novels, rather than within parts of *Pamela*. The summary window in the bottom left-hand corner will also give you a comparison of document lengths and a list of "distinctive" words in each document.
+Voyant should give you roughly the same windows as before, but this time they'll include analyses of all seven texts in the corpus. Document Terms will show you how word frequencies compare across novels, rather than within parts of *Pamela*. The summary window in the bottom left-hand corner will also give you a comparison of document lengths and a list of "distinctive" words in each document.
 
 The "Scale" menu at the bottom of some of the boxes will let you switch between viewing information about the corpus as a whole and information about individual texts.
 
