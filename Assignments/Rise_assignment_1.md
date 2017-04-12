@@ -22,7 +22,7 @@ In short, in this assignment we will
 
 Here are very detailed, step-by-step instructions. If you prefer, you are free to skip the instructions, try to figure out how to do it yourself, and skip to the "Read and Think" section.
 
-##Using the Stanford NER on *Robinson Crusoe*
+## Using the Stanford NER on *Robinson Crusoe*
 
 The procedure you need to follow will differ depending on whether you're using a Mac or PC.
 
