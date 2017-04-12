@@ -4,15 +4,15 @@ Steps 1-5 due by Wednesday, September 30. Step 6 (write-up) due Friday, October 
 
 So far, we have looked at and read our eighteenth-century novels in three primary forms: modern printed scholarly editions (or editions based on scholarly editions), digital facsimiles/digital surrogates (images of eighteenth-century editions of some of our novels, usually a few pages at a time), and the Project Gutenberg plain-text versions of our novels (which we have used in our text analysis assignments). This assignment will start us thinking about some of the ways we get from a paper copy of an eighteenth-century novel to a digital facsimile to a plain-text file. It will also help us think about what is at stake in TS's play with typography and images.
 
-![ALAS 1](https://github.com/rbuurma/rise-2015/blob/master/ALAS_1.png)
+![ALAS 1](/Images/ALAS_1.png)
 
-Why would we want to convert a digital facsimile into a "plain" text? A digital facsimile is useful in many ways: a series of images of a book (usually one image = one page), a it gives of some sense of the look of the book it represents. Usually digital facsimiles are created by creating an image file for each page of a book and then ordering them within a digital framework more or less by their order in the physical book. (We will also want to take some time, of course, about all of the interesting ways the digital facsimile fails to approximate the physical book; we'll also want to speculate on what some non-mimetic digitization practices might look like.)
+Why would we want to convert a digital facsimile into a "plain" text? A digital facsimile is useful in many ways: a series of images of a book (usually one image = one page), it gives us some sense of the look of the book it represents. Usually digital facsimiles are created by creating an image file for each page of a book and then ordering them within a digital framework more or less by their order in the physical book. (We will also want to think, of course, about all of the interesting ways the digital facsimile fails to approximate the physical book; we'll also want to speculate on what some non-mimetic digitization practices might look like.)
 
-![ALAS 2](https://github.com/rbuurma/rise-2015/blob/master/ALAS_2.PNG)
+![ALAS 2](/Images/ALAS_2.PNG)
 
 However, computers can't recognize the words on a page of a digital image as words; they are legible only as images. If we want machine-readable text, we will have to do something to the images to generate it. One simple but time-consuming way would be for a person to retype the entire text; many early digital texts were in fact made this way. Another option is to use OCR (Optical Character Recognition) software to convert image files into text files. As we will see, however, this software isn't perfect. It will generate mistakes - some specific to the particular OCR software we choose, some the result of the interaction between an image of 18th c typography and OCR. Therefore, OCR texts always require some level of correction, whether automated or by hand. (You might also want to note that OCR technology has improved a lot over time - but the OCR of any given work will reflect the state of the technology in the historical moment the text was OCR'd.)
 
-![ALAS 3](https://github.com/rbuurma/rise-2015/blob/master/ALAS_3.png)
+![ALAS 3](/Images/ALAS_3.png)
 
 In this assignment, you will locate a digital facsimile of *Tristram Shandy*, OCR and correct a chapter or part of a chapter, and reflect on what you have learned in the process.
 
@@ -38,7 +38,7 @@ Open the resulting PDF. Does a keyword search within it work? Why not, do you th
 
 #### Step 4
 
-Now you will OCR your file. You need to find an easy way to use optical character recognition software on that series of page images,which is currently formatted as a PDF. Search around online for a trial version of Abbey FineReader Pro, or Prizmo. You can likely locate a copy of Acrobat Pro on a Swarthmore computer in the ITS Media Lab. Here are ([instructions](https://acrobat.adobe.com/us/en/how-to/ocr-software-convert-pdf-to-text.html) for using it.  There are a range of other possibilities - any number of free online platforms that will give you different kinds of outputs at wildly varying levels of OCR quality and consistency. Uploading the PDF to Google Drive and then right-clicking to choose "open with Google Docs" will give you an interesting result.
+Now you will OCR your file. You need to find an easy way to use optical character recognition software on that series of page images, which is currently formatted as a PDF. Search around online for a trial version of Abbey FineReader Pro, or Prizmo. You can likely locate a copy of Acrobat Pro on a Swarthmore computer in the ITS Media Lab. Here are [instructions](https://acrobat.adobe.com/us/en/how-to/ocr-software-convert-pdf-to-text.html) for using it. There are a range of other possibilities - any number of free online platforms that will give you different kinds of outputs at wildly varying levels of OCR quality and consistency. Uploading the PDF to Google Drive and then right-clicking to choose "open with Google Docs" will give you an interesting result.
 
 Some OCR tools will give you options for the resulting format - Word document? Plain-text? Ebook? You might want to try a few - this depends on your use, and right now we're just experimenting. (For text analysis purposes, we will eventually want a plain txt file.)
 

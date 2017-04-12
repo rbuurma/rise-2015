@@ -10,7 +10,7 @@ Topic modeling has become popular among humanists seeking to learn about sets of
 
 Crucially, topic modeling doesn’t have any semantic inputs – it doesn’t know ahead of time anything about the meanings of the words it is looking at (in fact, as far as the algorithm understands, it is looking at numbers). You just provide the documents and tell the program how many topics to “train” or create, set a few other parameters, set a stopword list if you like, and the algorithm does the rest.
 
-Once you run the topic modeling program on your set of documents, it gives you some outputs. We will be using MALLET, which will give you a list of groups of words that co-occur (“topics”).  MALLET also gives you a spreadsheet show what percentage of each topic occurs in each document.  It’s then up to us to interpret or label the “topics.”  Some will be fairly obvious. But some of the topics are more ambiguous, and thus in some ways more interesting.
+Once you run the topic modeling program on your set of documents, it gives you some outputs. We will be using MALLET, which will give you a list of groups of words that co-occur (“topics”).  MALLET also gives you a spreadsheet showing what percentage of each topic occurs in each document. It’s then up to us to interpret or label the “topics.”  Some will be fairly obvious. But some of the topics are more ambiguous, and thus in some ways more interesting.
 
 The second output MALLET gives you is a spreadsheet telling you what percentage of each topic occurs in each document. This is also interesting because it might point you to look at chapters (or books, if you are using a large corpus) that you might not otherwise look at. For example, in a model of novels by Richardson split into chapter-length documents, I can tell just from reading what chapters are 75% about a letter-writing topic, but topic modeling might help me notice a series of chapters that are 25% about writing and thus send me to look at them more closely – are those chapters converting language associated with referential representation of writing in some parts of the novel into metaphors? Or are they simply chapters in which letters play a smaller role?
 
@@ -18,19 +18,14 @@ The second output MALLET gives you is a spreadsheet telling you what percentage 
 
 We will be returning to the 1760s in this assignment, so have a quick think back to *Tristram Shandy*.  Our working corpus is comprised of 41 titles printed during the 1760s, in a total of 61 volumes. A little under half are new editions of novels first published in previous decades, such as *Pamela*. Thus, this corpus gives us a sense of the literary field of the 1760s, and a more fleshed-out (though still partial) context for *Tristram Shandy.*
 
-### Preparing the Topic Modeling Tool
+### Topic Modeling 41 Works of Fiction from the 1760s
 
 **NOTE:** If you have any issues downloading or running Topic Modeling Tool, feel free to use any of the 6 iMac workstations in the public computing area in McCabe Library.
 
-+ Go to https://topic-modeling-tool.googlecode.com/files/TopicModelingTool.jar to download the Topic Modeling Tool (a graphical user interface for Mallet).
+These directions have been lightly adapted from Annie Swafford’s excellent [“Topic Modeling assignment”](https://sherlockholmeslondondh.wordpress.com/2015/03/23/topic-modeling-assignment/) for her Digital Tools for the 21st Century: Sherlock Holmes's London class (SUNY New Paltz, Spring 2015).
 
-+ Open it up. If you are on a Mac, there is a good chance that your security settings will refuse to allow you to do such a clearly dangerous thing. To override them, click on the ? you will see on the pop-up box and follow the instructions to locate the downloaded app in finder, press the Control key while clicking the app icon, and choosing Open from the shortcut menu.
-
-### Topic Modeling 41 Works of Fiction from the 1760s
-
-*Note: these directions have been lightly adapted from Annie Swafford’s exellent [“Topic Modeling assignment”](https://sherlockholmeslondondh.wordpress.com/2015/03/23/topic-modeling-assignment/) for her Digital Tools for the 21st Century: Sherlock Holmes's London class (SUNY New Paltz, Spring 2015).
-
-+ First download [the assignment data](https://github.com/bulbil/rise-assignment7-data/archive/master.zip) (this folder also includes the Topic Modeling Tool application file)
++ First download [the assignment data](https://github.com/bulbil/rise-assignment7-data/archive/master.zip). This folder also includes the Topic Modeling Tool, a graphical user interface for Mallet. (You can also download the topic modeling tool on its own [here](http://nlp.stanford.edu/software/tmt/tmt-0.4/).)
++ Open the topic modeling tool. If you are on a Mac, there is a good chance that your security settings will refuse to allow you to do such a clearly dangerous thing. To override them, click on the ? you will see on the pop-up box and follow the instructions to locate the downloaded app in finder, press the Control key while clicking the app icon, and choosing Open from the shortcut menu.
 + Click on the button labeled “Select Input File or Dir” and choose the folder with the 1760s corpus that you have saved to your own computer and select “Open.”
 + Click on the button labeled “Select Output Dir.”
 + Click the icon that looks like a folder in the upper right part of the window to create a new folder.
@@ -55,13 +50,13 @@ Also possibly of interest: is there any apparent relation between what Barthes i
 
 ### Further optional reading
 
-Topic Modeling and Digital Humanities by David Blei in the special topic modeling issue of the Journal of Digital Humanities offers an accessible introduction.
+["Topic Modeling and Digital Humanities"](http://journalofdigitalhumanities.org/2-1/topic-modeling-and-digital-humanities-by-david-m-blei/) by David Blei in the special topic modeling issue of the Journal of Digital Humanities offers an accessible introduction.
 
-In the same issue, Megan Brett’s Topic Modeling: A Basic Introduction reinforces the overview and the “applications” essays by Lisa Rhody and others give some use cases.
+In the same issue, Megan Brett’s ["Topic Modeling: A Basic Introduction"](http://journalofdigitalhumanities.org/2-1/topic-modeling-a-basic-introduction-by-megan-r-brett/) reinforces the overview and the “applications” essays by Lisa Rhody and others give some use cases.
 
-After doing this to orient yourself, you may wish to read Ted Underwood’s more technical blog post Topic modeling made just simple enough for a more detailed perspective.
+After doing this to orient yourself, you may wish to read Ted Underwood’s more technical blog post ["Topic modeling made just simple enough"](https://tedunderwood.com/2012/04/07/topic-modeling-made-just-simple-enough/) for a more detailed perspective.
 
-For more technical detail, David Mimno's video "The Details: Training and Validating Big Models on Big Data" may be useful (without understanding all of it, I find it helpful).
+For more technical detail, David Mimno's video ["The Details: Training and Validating Big Models on Big Data"](http://journalofdigitalhumanities.org/2-1/the-details-by-david-mimno/) may be useful (without understanding all of it, I find it helpful).
 
 Scott Weingart’s 2012 [Topic Modeling for Humanists: A Guided Tour](http://www.scottbot.net/HIAL/?p=19113) is partly his own explanation and partly a nice overview of increasingly complex introductions to topic modeling; it is a bit outdated at this point, however, as it won’t include work published after 2012.
 
@@ -70,5 +65,3 @@ Scott Weingart’s 2012 [Topic Modeling for Humanists: A Guided Tour](http://www
 This assignment was produced in collaboration with Nabil Kashyap (Swarthmore Librarian for Digital Initiatives and Scholarship)  and Lindsay Van Tine (Penn-Swarthmore CLIR Fellow).
 
 It draws heavily on Annie Swafford’s [“Topic Modeling assignment”](https://sherlockholmeslondondh.wordpress.com/2015/03/23/topic-modeling-assignment/) for her Digital Tools for the 21st Century: Sherlock Holmes's London class (SUNY New Paltz, Spring 2015).
-
-

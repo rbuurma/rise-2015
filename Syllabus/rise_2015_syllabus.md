@@ -33,11 +33,11 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 + RC's republishing history - in title pages
 + fiction and the novel
 + Close Reading a Novel
-+ [exercise 1](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_1.md) assigned
++ [exercise 1](/Assignments/Rise_assignment_1.md) assigned
 
 ##### September 4
 + *Robinson Crusoe*, continued
-+ exercise 1 due ([responses](http://rise2015.rachelsagnerbuurma.org/tag/assignment1)), [exercise 2](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_2.md) assigned
++ exercise 1 due ([responses](http://rise2015.rachelsagnerbuurma.org/tag/assignment1)), [exercise 2](/Assignments/Rise_assignment_2.md) assigned
 
 ### Week II: *Robinson Crusoe* (1719)
 
@@ -65,7 +65,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### September 18
 + selection from Armstrong, *Desire and Domestic Fiction*
-+ [exercise 3](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_3.md) assigned
++ [exercise 3](/Assignments/Rise_assignment_3.md) assigned
 
 ### Week IV: *Pamela* and *Shamela* (1741)
 
@@ -74,7 +74,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### September 23
 + *Shamela*, continued
-+ exercise 3 due ([responses](http://rise2015.rachelsagnerbuurma.org/tag/Exercise3)); [exercise4](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_4.md) assigned
++ exercise 3 due ([responses](http://rise2015.rachelsagnerbuurma.org/tag/Exercise3)); [exercise4](/Assignments/Rise_assignment_4.md) assigned
 
 ##### September 25
 + McKeon, "Generic Transformation and Social Change"
@@ -86,11 +86,11 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### September 30
 + *Tristram Shandy*, continued
-+ [exercise 4](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_4.md) steps 1-5 due; exercise 5 assigned
++ [exercise 4](/Assignments/Rise_assignment_4.md) steps 1-5 due; exercise 5 assigned
 
 ##### October 2
 + selection from Ramsay, *Reading Machines*
-+ [exercise 4](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_4.md) writeup due ([responses](http://rise2015.rachelsagnerbuurma.org/tag/Exercise4))
++ [exercise 4](/Assignments/Rise_assignment_4.md) writeup due ([responses](http://rise2015.rachelsagnerbuurma.org/tag/Exercise4))
 + [from Thomas Keymer, “Sterne and the ‘New Species of Writing’” in *Tristram Shandy: A Casebook* (removed)]
 
 ### Week VI: *Evelina* (1778)
@@ -104,8 +104,8 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 ##### October 9
 + selection from Habermas, *The Structural Transformation of the Public Sphere*
 + short paper due by midnight October 11th
-+ [descriptive bibliography project](https://github.com/rbuurma/rise-2015/blob/master/Rise_descriptive_bib_project.md) assigned
-+ [exercise 5](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_5.md) assigned
++ [descriptive bibliography project](/Descriptive_bib_project/Rise_descriptive_bib_project.md) assigned
++ [exercise 5](/Assignments/Rise_assignment_5.md) assigned
 
 ### Week VII: October Holiday – you may wish to read ahead and begin *Northanger Abbey* as well
 
@@ -133,7 +133,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 
 ##### October 28
 + *Northanger Abbey*, continued
-+ [exercise 6](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_6.md) assigned
++ [exercise 6](/Assignments/Rise_assignment_6.md) assigned
 
 ##### October 30
 + selection from Anderson, *Imagined Communities*
@@ -145,7 +145,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 + exercise 6 due([responses](http://rise2015.rachelsagnerbuurma.org/tag/Exercise6))
 
 ##### November 4
-+ [exercise 7 assigned](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_7.md)
++ [exercise 7 assigned](/Assignments/Rise_assignment_7.md)
 + topic modeling lab
 + *The Moonstone*, continued
 
@@ -187,7 +187,7 @@ Suggested for readers, writers, critics, and reviewers of fiction, fans of exper
 + *Ulysses*, "Nausicaa" chapter
 + optional: take a look at [Infinite Ulysses](www.infiniteulysses.com)
 + discuss criticism exam
-+ [exercise 8 assigned](https://github.com/rbuurma/rise-2015/blob/master/Rise_assignment_8.md)
++ [exercise 8 assigned](/Assignments/Rise_assignment_8.md)
 
 ##### November 25
 + no class (begin reading A House for Mr. Biswas)
@@ -329,23 +329,3 @@ I want to work to make sure that everyone in this class has the access to the ma
 The archival version of our syllabus will be deposited in our Dropbox folder. The most up-to-date copy of our syllabus and exercises will be available on github: https://github.com/rbuurma/rise-2015
 
 This work is licensed under the Creative Commons Attribution 4.0 International License. To view a copy of this license, visit http://creativecommons.org/licenses/by/4.0/ or send a letter to Creative Commons, 444 Castro Street, Suite 900, Mountain View, California, 94041, USA.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
