@@ -65,5 +65,3 @@ Scott Weingart’s 2012 [Topic Modeling for Humanists: A Guided Tour](http://www
 This assignment was produced in collaboration with Nabil Kashyap (Swarthmore Librarian for Digital Initiatives and Scholarship)  and Lindsay Van Tine (Penn-Swarthmore CLIR Fellow).
 
 It draws heavily on Annie Swafford’s [“Topic Modeling assignment”](https://sherlockholmeslondondh.wordpress.com/2015/03/23/topic-modeling-assignment/) for her Digital Tools for the 21st Century: Sherlock Holmes's London class (SUNY New Paltz, Spring 2015).
-
-
