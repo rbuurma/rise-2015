@@ -4,7 +4,7 @@ While we have read a good long chunk of *Pamela*, we don't have time to read all
 
 Eighteenth-century readers possessed a number of forms and technologies for solving this problem. In the 1742 octavo edition of all four volumes of *Pamela*, Richardson included a detailed table of contents. It had uses for different kinds of readers and non-readers of that novel. It would "serve to revive the Memory of the principle Matters in the Minds of those who have read them";  it gives "an easy and clear View" of the novels' contents to those who have not read them "nor perhaps have Leisure to peruse them" (note the reference to the politics of leisure and work as discussed in class).  At the same time, Richardson explained, the table of contents functions as "a copious INDEX to direct the Reader where to find the most material passages."
 
-![Pamela 1742 Epitome headnote](https://github.com/rbuurma/rise-2015/blob/master/Pamela_epitome_headnote_1742.png?raw=true)
+![Pamela 1742 Epitome headnote](/Images/Pamela_epitome_headnote_1742.png)
 
 Later, at the urging of his friend, Samuel Johnson, Richardson would go on to publish *A collection of the moral and instructive sentiments, maxims, cautions, and reflexions, contained in the histories of Pamela, Clarissa, and Sir Charles Grandison* (1755). Johnson had requested that Richardson add a topical "index" to *Clarissa*, his second major novel, in order to help "the busy, the aged, and the studious" locate instructional passages. Richardson eventually compiled such indexes to each of his major novels and published them as a separate volume, including volume and page number citations to refer the reader back to the novels. The *Collection* abandoned plot summary in favor of summarizing the teachings of *Pamela* and the other novels.<sup id="a1">[1](#f1)</sup>
 
@@ -12,9 +12,9 @@ In this exercise, we will take a look at Richardson's various indexes to *Pamela
 
 ### Richardson's Indexes to *Pamela*
 
-First, take a look at the [1742 Table of Contents](https://github.com/rbuurma/rise-2015/blob/master/Pamela_1742_Table_of_Contents.pdf). What kind of information about the novels (*Pamela* and *Pamela in Her Exalted Condition*) does it offer you? How is it organized? What is the narrative voice like? What kinds of words are repeated, what kinds of events are described? Does this information point towards any new interpretations of *Pamela*, large or small?
+First, take a look at the [1742 Table of Contents](/Assignment_materials/Pamela_1742_Table_of_Contents.pdf). What kind of information about the novels (*Pamela* and *Pamela in Her Exalted Condition*) does it offer you? How is it organized? What is the narrative voice like? What kinds of words are repeated, what kinds of events are described? Does this information point towards any new interpretations of *Pamela*, large or small?
 
-Next, skim through the section of the 1755 [*Collection*](https://books.google.com/books?id=e94NAAAAQAAJ&printsec=frontcover#v=onepage&q&f=false) that deals with *Pamela* and *Pamela in Her Exalted Condition*. How does the *Collection* compare to the 1742 index?
+Next, skim through the section of the 1755 [*Collection*](https://books.google.com/books?id=e94NAAAAQAAJ&printsec=frontcover#v=onepage&q&f=false) that deals with *Pamela* and *Pamela in Her Exalted Condition*. (You can also find a plain-text version [here](http://quod.lib.umich.edu/cgi/t/text/text-idx?c=ecco;idno=004835423.0001.000).) How does the *Collection* compare to the 1742 index?
 
 ### Machine-Indexing *Pamela*
 
@@ -54,7 +54,7 @@ For example, I might use the search box in the "Document Terms" window to search
 
 #### Step 5
 
-This portion of the assignment should help us think about the relationship between *Pamela*, various eighteenth-century responses to *Pamela*, and Richardson's other work. Download this [zip file](https://github.com/ydshiroma/rise-2015/blob/master/Assignment_materials/Pamela_corpus.zip), which includes plain text versions of *Pamela*, *Shamela*, and a number of other texts. (*Clarissa* and *Sir Charles Grandison* were Richardson's two other major novels, published after *Pamela*. *Clarissa*, which resembles *Pamela* in a number of ways, deals with a young bourgeois woman who is imprisoned by Mr. Lovelace, a notorious rake, after fleeing her family. *Grandison* is a novel about a man meant to provide an example of male virtue. *Joseph Andrews* is a novel by Henry Fielding, author of *Shamela*, which features Shamela's brother Joseph and the Booby family. Eliza Haywood's *Anti-Pamela* is a parody of *Pamela* written around the same time as *Shamela*.)
+This portion of the assignment should help us think about the relationship between *Pamela*, various eighteenth-century responses to *Pamela*, and Richardson's other work. Download this [zip file](/Assignment_materials/Pamela_corpus.zip), which includes plain text versions of *Pamela*, *Shamela*, and a number of other texts. (*Clarissa* and *Sir Charles Grandison* were Richardson's two other major novels, published after *Pamela*. *Clarissa*, which resembles *Pamela* in a number of ways, deals with a young bourgeois woman who is imprisoned by Mr. Lovelace, a notorious rake, after fleeing her family. *Grandison* is a novel about a man meant to provide an example of male virtue. *Joseph Andrews* is a novel by Henry Fielding, author of *Shamela*, which features Shamela's brother Joseph and the Booby family. Eliza Haywood's *Anti-Pamela* is a parody of *Pamela* written around the same time as *Shamela*.)
 
 We won't be able to read the majority of these texts during the semester, but Voyant may be able to give us some sense of their contents. Go back to Voyant's main page, upload the zip file, and click Reveal. (You may also want to unzip the file and take a look at its contents.)
 
